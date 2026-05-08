@@ -1,42 +1,42 @@
-# HellOOpass Knowledge Base
-*Open Payment OS — Wallet Guide v3.1*
+# Helloopass Knowledge Base
+*Open Trading & Payment OS — "The solidarity economy Click and Trade" — Wallet Guide v4.0*
 
 ---
 
-## Who Owns HellOOpass Technology?
+## Who Owns Helloopass Technology?
 
-HellOOpass is owned and developed by **Belcash Labs, also known as WOS IP** — a subsidiary of **World Open Services Holding (WOS)**, a Dutch entity specialising in the development of advanced Fintech platforms, primarily for the African market.
+Helloopass is owned and developed by **Belcash Labs, also known as WOS IP** — a subsidiary of **World Open Services Holding (WOS)**, a Dutch entity specialising in the development of advanced Fintech platforms, primarily for the African market.
 
 WOS IP is also the developer of **Hellocash** — its most popular platform — a mobile money solution that has:
 - Processed more than **200 million transactions** in the East African market
 - Handled a total transaction volume of over **$7 billion USD**
 
-This deep Fintech expertise and proven track record in African markets is what powers the HellOOpass OS engine — built by a team that understands the realities of financial inclusion, mobile-first economies, and community-based trading on the continent.
+This deep Fintech expertise and proven track record in African markets is what powers the Helloopass OS engine — built by a team that understands the realities of financial inclusion, mobile-first economies, and community-based trading on the continent.
 
 ---
 
-## Who is the Founder of HellOOpass OS?
+## Who is the Founder of Helloopass OS?
 
-HellOOpass OS was developed by the Belcash Labs team under the supervision of **Mountaga Vince Diop (MVD)**, an IT specialist and seasoned Fintech pioneer.
+Helloopass OS was developed by the Belcash Labs team under the supervision of **Mountaga Vince Diop (MVD)**, an IT specialist and seasoned Fintech pioneer.
 
 MVD was trained at:
 - **École Polytechnique de Thiès** — Senegal
 - **Institut International de Bordeaux** — France
 - **Academy of Young Leaders** — Japan
 
-A true industry pioneer, MVD was one of the first — if not the very first — to distribute prepaid Visa debit cards in North America under his own brand at shop level, long before prepaid cards became mainstream. His vision and expertise in payment systems, financial inclusion, and community-based economies are at the heart of what HellOOpass OS was built to achieve.
+A true industry pioneer, MVD was one of the first — if not the very first — to distribute prepaid Visa debit cards in North America under his own brand at shop level, long before prepaid cards became mainstream. His vision and expertise in payment systems, financial inclusion, and community-based economies are at the heart of what Helloopass OS was built to achieve.
 
 ---
 
-## About HellOOpass
+## About Helloopass
 
-HellOOpass is one of the most advanced payment Operating Systems in the world, designed to empower communities in the simplest and most accessible way possible. It acts as the engine facilitating trading and payments inside a community — covering wallet creation, KYC verification, payment processing, merchant licensing, sponsor top-ups, and gig worker payouts — all in a seamless experience that works even on basic phones.
+Helloopass — *"The solidarity economy Click and Trade"* — is one of the most advanced Open Trading & Payment Operating Systems worldwide, designed to empower communities in the simplest and most accessible way possible. It acts as the engine facilitating trading and payments inside a community — covering wallet creation, KYC verification, payment processing, merchant licensing, sponsor top-ups, and gig worker payouts — all in a seamless experience that works even on basic phones.
 
 ---
 
 ## What is a Community?
 
-A HellOOpass community is a closed group that can include buyers, merchants, beneficiaries, sponsors, sales agents, and gig workers — all transacting using Stablepoints within a shared digital ecosystem. Points stay within the community and cannot be used outside of it.
+A Helloopass community is a closed group that can include buyers, merchants, beneficiaries, sponsors, sales agents, and gig workers — all transacting using Stablepoints within a shared digital ecosystem. Points stay within the community and cannot be used outside of it.
 
 Anyone in the community can acquire Stablepoints by topping up via mobile money, bank transfer, or community agents. Points can only be used to purchase goods and services from within the community.
 
@@ -52,7 +52,7 @@ Regular end users, sponsors, and buyers cannot cash out directly.
 
 Stablepoints work similarly to stablecoins in the crypto world — a digital currency always backed 1:1 by real cash. For every Stablepoint in circulation, an equivalent amount of real cash is held in the community's own bank account.
 
-The community itself — not HellOOpass — is the custodian of the funds. HellOOpass simply provides the OS layer that makes it all work securely, transparently, and instantly.
+The community itself — not Helloopass — is the custodian of the funds. Helloopass simply provides the OS layer that makes it all work securely, transparently, and instantly.
 
 **Example:** 1 Stablepoint = 1 USD, 1 EUR, or 100 CFA — depending on the community's currency.
 
@@ -63,7 +63,7 @@ The community itself — not HellOOpass — is the custodian of the funds. HellO
 ### Model 1 — Cooperative / Union
 *Member-funded*
 
-Members of a union or cooperative fund their own association. Each member tops up their HellOOpass wallet with real cash, acquires Stablepoints, and buys from any member who holds a merchant license within the community. Merchants collect Stablepoints from sales and can transfer them back to real cash.
+Members of a union or cooperative fund their own association. Each member tops up their Helloopass wallet with real cash, acquires Stablepoints, and buys from any member who holds a merchant license within the community. Merchants collect Stablepoints from sales and can transfer them back to real cash.
 
 This is a fully peer-funded closed-loop economy — ideal for savings groups, cooperatives, and trade unions.
 
@@ -81,7 +81,7 @@ This model enables targeted financial inclusion and social support programs at s
 ### Model 3 — Distribution
 *Corporate network*
 
-A corporation operates a closed network with one unique seller (the corporation itself), multiple sales agents managing points of sale, and multiple buyers. Buyers top up their HellOOpass account and purchase from the network, benefiting from payment facilities and loyalty programs.
+A corporation operates a closed network with one unique seller (the corporation itself), multiple sales agents managing points of sale, and multiple buyers. Buyers top up their Helloopass account and purchase from the network, benefiting from payment facilities and loyalty programs.
 
 Ideal for retail chains, distributors, or franchise networks looking to digitise payments and reward customers.
 
@@ -99,9 +99,9 @@ Beneficiaries can only spend points at pre-approved dedicated places. For exampl
 ### Model 5 — E-commerce
 *Online marketplace*
 
-A standard online marketplace where suppliers register with a HellOOpass earnings wallet to receive payments. Buyers can either pay directly (credit/debit card) for goods they order, or pay using their regular HellOOpass wallet.
+A standard online marketplace where suppliers register with a Helloopass earnings wallet to receive payments. Buyers can either pay directly (credit/debit card) for goods they order, or pay using their regular Helloopass wallet.
 
-This model bridges traditional e-commerce with the HellOOpass payment ecosystem, giving suppliers access to both wallet users and standard online shoppers.
+This model bridges traditional e-commerce with the Helloopass payment ecosystem, giving suppliers access to both wallet users and standard online shoppers.
 
 ---
 
@@ -132,7 +132,7 @@ The same PIN works across all your communities and wallets. Avoid sequential num
 ## Getting Started
 
 1. Find an open community via their dedicated web portal, or receive an invitation from a community administrator
-2. Download the HellOOpass Personal App from the **App Store** (iPhone) or **Google Play** (Android)
+2. Download the Helloopass Personal App from the **App Store** (iPhone) or **Google Play** (Android)
 3. Open the app, enter your registered phone number and activation code
 4. Complete KYC verification (once only — valid forever)
 5. Create your 4–6 digit PIN
@@ -214,7 +214,7 @@ All app payments require your PIN. You receive a digital receipt after every pay
 ## Security Tips
 
 - **Never share your PIN** with anyone — not even community administrators or merchants
-- HellOOpass will **NEVER** ask for your PIN via SMS, email, or phone call
+- Helloopass will **NEVER** ask for your PIN via SMS, email, or phone call
 - Avoid simple PINs like 1234, 0000, or your birth year
 - Change your PIN every 3 months via **Menu → Security → Change PIN**
 - If your phone is **lost or stolen**, immediately contact your community administrator — they can block your wallets across all communities
@@ -247,7 +247,7 @@ To download a monthly statement: **History → Download → Select month** → c
 
 ## No Smartphone / Basic Phone
 
-If you don't have a smartphone, you can still use HellOOpass via the OTP method:
+If you don't have a smartphone, you can still use Helloopass via the OTP method:
 
 1. Tell the merchant your registered phone number
 2. Merchant initiates the payment in their app
@@ -279,7 +279,7 @@ After leaving:
 
 Cross-community transfers and purchases are **not yet available**. Points from one community can only be used within that same community.
 
-This feature — allowing you to send points to members of other communities and pay merchants in other communities — is scheduled for release at the **end of June 2026**.
+This feature is scheduled for release at the **end of June 2026**.
 
 ---
 
@@ -292,7 +292,7 @@ With a restricted wallet:
 - You can only pay approved merchants
 - Spending categories and expiry dates may apply
 
-This is used in the **Gift Card model (Model 4)** and **Disbursement model (Model 2)**. Most regular dedicated wallets are unrestricted.
+Used in the **Gift Card model (Model 4)** and **Disbursement model (Model 2)**. Most regular dedicated wallets are unrestricted.
 
 ---
 
@@ -323,6 +323,177 @@ If withdrawal is available to you: **Tap Withdraw → enter amount → select me
 
 ---
 
+## Dedicated Portal — Optional Branded Website
+
+The Dedicated Portal is an optional add-on that Helloopass provides for communities who want their own branded website in addition to the standard platform. It is not required — the standard platform is fully functional and completely free.
+
+### Two Ways to Use Helloopass
+
+| Option | Price | What It Is |
+|---|---|---|
+| Standard Platform | Free | Use Helloopass as-is — fully functional |
+| Dedicated Portal | $250–$5,000 (one-time) | Add your own branded website |
+
+### Option 1 — Standard Platform (Free)
+
+Your community uses the standard Helloopass platform at no cost:
+- Members download the standard apps
+- Members use the standard web portal
+- Managers use the standard backend
+- Your community page is at: helloopass.com/yourcommunity
+
+Ready to use immediately — completely free.
+
+### Option 2 — Dedicated Portal (Optional Extra)
+
+You add your own branded website on top of the standard platform. Everything else remains exactly the same — same apps, same backend, same features.
+
+What you get extra:
+- **Your own website** — fully branded with your logo and colors
+- **AI-generated design** — Helloopass AI creates 3 designs, you choose one
+- **Your own domain** — use your own URL (e.g. shop.yourcommunity.com)
+- **Quick launch** — website live in less than 1 hour
+- **No maintenance required** — Helloopass maintains everything
+- **No monthly subscription** — one-time fee only
+
+### How It Works
+
+1. Your community is using the standard platform (free)
+2. You decide you want your own branded website
+3. Request the Dedicated Portal from Helloopass
+4. AI Studio generates 3 unique designs for you
+5. You choose your favourite
+6. Link your own domain name
+7. Your website is live in less than 1 hour
+8. Your members now see your branded website *(they still use the same apps — nothing changes for them)*
+
+### Pricing
+
+| Package | Price (USD) | What You Get |
+|---|---|---|
+| Basic | $250 | Branded website + AI design + your domain |
+| Standard | $1,000–$2,500 | All Basic + advanced reporting + priority support |
+| Premium | $3,000–$5,000 | All Standard + full customization + API + 24/7 support |
+
+### Example
+
+**Without Dedicated Portal (Free):**
+Members go to helloopass.com/yourcommunity — they see the standard Helloopass design.
+
+**With Dedicated Portal ($250+):**
+Members go to shop.yourcommunity.com — they see your logo, your colors, your brand. All features work exactly the same.
+
+### Key Facts
+
+- You do not need a Dedicated Portal to use Helloopass — the free platform works perfectly
+- No technical skills required — AI generates everything
+- Launch in less than 1 hour
+- Members do not need new apps — nothing changes for them
+- You can start free and upgrade to a Dedicated Portal at any time
+
+---
+
+## Helloopass Demo — Try It Before You Use It
+
+The **Helloopass Demo** is a free, safe practice environment where anyone can test everything before using real money. Think of it like a simulation — you get free demo points to practice with, and an AI assistant guides you step by step.
+
+**Demo website: https://hpassfinance.vercel.app/**
+
+### What You Can Test in the Demo
+
+- Open a personal wallet (buyer account)
+- Open a merchant account
+- Receive free demo points
+- Make payments as a customer
+- Accept payments as a merchant
+- Transfer points to other testers
+- Chat with the AI assistant for instant guidance
+
+### How to Get Started — 3 Simple Steps
+
+**Step 1: Register on the Demo Portal**
+Go to **https://hpassfinance.vercel.app/**, choose your country, and fill in your name, phone number, and email address. You can use your real phone number — the demo will send SMS for testing.
+
+**Step 2: Download the Demo Apps**
+After registration, download two apps from the App Store or Google Play:
+- **Helloopass Personal Demo** — practice buying and sending points
+- **Helloopass Merchant Demo** — practice accepting payments
+
+Look for "DEMO" in the app name — these are separate from the real apps.
+
+**Step 3: Start Practicing with Demo Points**
+Once you log in, you receive free demo points automatically. You can immediately pay a merchant, accept a payment, send points to a friend, and explore all features.
+
+### AI Assistant in the Demo
+
+While using the demo, an AI assistant will:
+- Answer your questions instantly
+- Show you what to do next
+- Suggest actions to try
+- Help you fix mistakes
+
+### Why Try the Demo?
+
+- **Learn without risk** — no real money at stake, ever
+- **Test both roles** — experience the platform as a customer AND as a merchant
+- **Make mistakes safely** — practice without any consequences
+- **Get AI guidance** — an AI assistant is with you every step of the way
+- **Build confidence** — know exactly how everything works before going live with real money
+
+### Demo vs. Real — Key Differences
+
+| Feature | Demo Version | Real Version |
+|---|---|---|
+| Points | Demo points (no real value) | Stablepoints (backed by real cash) |
+| Money | No real money involved | Uses real local currency |
+| Bank accounts | Not needed | Can link for withdrawals |
+| SMS | Test SMS messages | Real SMS notifications |
+| Purpose | Practice & learning | Real buying and selling |
+
+> Demo points have no real value — they are purely for practice and learning.
+
+---
+
+## Helloopass Store — Distribution for Developers & Platform Owners
+
+The **Helloopass Store** is the official distribution channel for third-party solutions built on or integrated with Helloopass OS. Being listed gives solution providers direct access to a pre-existing, trust-based ecosystem — without having to build a user base from scratch.
+
+### Why Join the Helloopass Store?
+
+- **Instant multi-country distribution** — reach communities across geographies without local entities or banking relationships
+- **Embedded user base** — near-zero customer acquisition cost
+- **"Certified by Helloopass OS" badge** — carries an implicit endorsement, increasing conversion rates
+- **Unified integration** — integrate once with Hpass OS, access all payment methods and currencies across all supported countries
+- **Compliance coverage** — Helloopass handles country-specific KYC/AML, data residency, and tax reporting
+- **Seamless user experience** — Helloopass identity and payment credentials carry over; no separate KYC required for end users
+
+### The Certification Journey — 5 Phases
+
+1. **Discovery & Eligibility** *(Week 1)* — Helloopass evaluates your business model, target communities, and regulatory status. A preliminary term sheet is issued.
+2. **Contracting** *(Weeks 2–3)* — Signature of the Hpass OS Certification Agreement and the Helloopass Store Participation Agreement.
+3. **Technical Integration & Certification** *(Weeks 4–8)* — Sandbox integration, SSO setup, consent management, security audit, and PCI DSS validation. Passing grants the **"Certified by Helloopass OS"** badge.
+4. **Soft Launch & Community Pilot** *(Weeks 9–10)* — Limited rollout to one community or country for real-world validation and iteration.
+5. **Full Store Launch** *(Week 11 onwards)* — Wider rollout, co-marketing activation, and ongoing performance reviews.
+
+### What Happens After Certification?
+
+Once certified and listed in the Helloopass Store:
+
+1. **Community managers are notified** — all community managers across the Helloopass network can decide whether to activate the app for their community.
+2. **One-click activation** — a single click places your app's icon on the **Discovery page** of every member's Helloopass app within that community.
+3. **Members are pre-registered** — all community members are automatically pre-registered for your service. No additional KYC or sign-up required.
+4. **Multi-channel notification** — every member receives a notification via email, SMS, and in-app.
+5. **One-tap install** — members choose to download your app. If they accept, it is instantly installed from the **Google Play Store** or **Apple App Store** — no separate KYC, ready to use immediately.
+6. **Revenue sharing** — if your app involves payments, revenue is shared between **Helloopass OS**, **the Community**, and **the App owner**. Terms are defined upon certification.
+
+### How to Apply
+
+The only way to get your app listed on the Helloopass Store is to register via:
+
+> **https://0d834e18.mydala.app/**
+
+---
+
 ## Contact & Support
 
 - **Email:** help@helloopass.com
@@ -338,4 +509,4 @@ When contacting support, please provide:
 
 ---
 
-*HellOOpass Open Payment OS · © 2026 HellOOpass. All rights reserved.*
+*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.*
