@@ -275,11 +275,22 @@ After leaving:
 
 ---
 
-## Cross-Community Transfers
+## Cross-Community Transfers & Inter-Community Trading
 
-Cross-community transfers and purchases are **not yet available**. Points from one community can only be used within that same community.
+Cross-community transfers and payments are **not yet available** for end users. Points from one community can only be used within that same community. This feature is scheduled for release at the **end of June 2026**.
 
-This feature is scheduled for release at the **end of June 2026**.
+Once live, this will allow:
+- Sending points to members of other communities
+- Paying merchants in other communities
+
+**Clearing & Settlement between communities:**
+Helloopass OS provides the full clearing and settlement infrastructure for communities that decide to trade together. This means:
+- All inter-community transactions are cleared and settled directly through the Helloopass OS engine
+- No external clearing house or third-party settlement provider is needed
+- Each community retains its own identity, currency, and governance
+- Helloopass acts as the trusted settlement layer between participating communities
+
+This effectively connects all Helloopass communities into a wider inter-connected trading network — transforming what started as independent local economies into a unified, borderless solidarity marketplace, all powered by the same OS.
 
 ---
 
