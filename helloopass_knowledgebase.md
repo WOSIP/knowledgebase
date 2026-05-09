@@ -3579,4 +3579,4 @@ When contacting support, please provide:
 
 ---
 
-*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v2.0)*
+*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v2.5)*
