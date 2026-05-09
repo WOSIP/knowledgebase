@@ -629,6 +629,552 @@ Community administrators can manage the float manually or via API. This means ev
 > Helloopass is not just a payment processor — it is a full payment operating system that provides credit lines, sponsored wallets, instant settlement, loyalty programs, and inter-community clearing. All within a single platform, at no monthly cost.
 
 
+## How Does a Community Join Helloopass?
+
+### The Right Way to Understand It — The Visa Analogy
+
+Helloopass works exactly like Visa:
+
+- **Visa** provides its payment infrastructure to **banks** — the banks then onboard their own account holders
+- **Helloopass** provides its Trading & Payment OS to **communities** — the communities then onboard their own members
+
+Just as there is no "Visa Visa card" — there is always **Visa — Standard Bank**, or **Visa — Barclays** — there is no "Helloopass Helloopass". There is always:
+
+> **Helloopass — Fisher Cooperative of Saint Louis**
+> **Helloopass — Women's Savings Union of Abidjan**
+> **Helloopass — Al Nour Islamic Community of Dakar**
+
+The community's identity is always front and centre. Helloopass is the invisible engine powering it — just like Visa is the invisible rail behind every bank card.
+
+Just as Visa does not deal directly with individual cardholders, Helloopass does not onboard individual members — **the community does.**
+
+### Who Can Apply?
+
+Not every group can become a Helloopass community. Only **existing and recognized communities** are accepted. This means the community must:
+
+- Already exist as a recognized legal or institutional entity
+- Have an established membership or constituency
+- Be able to sign a formal agreement on behalf of their community
+
+### The Onboarding Process
+
+**Step 1 — Application**
+The community administrator contacts Helloopass and submits their application. Helloopass evaluates whether the community is an existing, recognized entity.
+
+**Step 2 — Agreement**
+The community signs a formal agreement with Helloopass covering:
+- Platform usage and technical integration
+- Full legal compliance with the laws of their country
+- Merchant approval and governance rules
+- Revenue sharing terms (if applicable)
+- Consequences of non-compliance — immediate cancellation of the agreement
+
+**Step 3 — Platform Setup (2–4 hours)**
+Once the agreement is signed, Helloopass sets up the platform for the community. The full setup takes **2 to 4 hours**.
+
+**Step 4 — Community Starts Onboarding Its Members**
+Once the platform is live, the community administrator takes over:
+- Approves merchants according to their values and rules
+- Invites or onboards members
+- Manages the community's own bank account and funds
+- Governs their closed-loop economy independently
+
+### The Key Principle
+
+Helloopass provides the OS infrastructure. The community owns and governs everything that runs on top of it — their members, their merchants, their funds, and their values.
+
+**Helloopass is the invisible engine. The community is the brand. The members are the account holders.**
+
+Just as no one says "I am paying with Visa" — they say "I am paying with my Standard Bank Visa card" — a Helloopass member says "I am paying with my Fisher Cooperative wallet." Helloopass powers it. The community owns it.
+
+
+## Why Should My Organization Use Helloopass OS?
+
+The answer depends on what type of organization you are. Helloopass OS is designed to serve every type of community — from NGOs to corporations, from religious organizations to diaspora networks.
+
+### If You Are an NGO or Government
+- Distribute aid, grants, or social transfers directly to beneficiaries with full spend control
+- Ensure funds are used only for their intended purpose (health, food, education)
+- Merchants cash out instantly — no delays, no leakage
+- UN World Food Programme (WFP) already validated the platform for exactly this use case
+- No banking infrastructure required in the field
+
+### If You Are a Cooperative or Union
+- Give your members their own closed-loop economy
+- Members trade with each other using Stablepoints — keeping value circulating inside the group
+- BNPL gives merchants instant cash while preserving trust-based credit relationships
+- No bank account needed to participate
+- Your community holds its own funds — not a bank, not a telecom
+
+### If You Are a Religious Organization
+- Build an economy that reflects your values
+- Only approve merchants that align with your principles
+- Exclude alcohol, gambling, adult content, or any category that conflicts with your community's beliefs
+- Members trade in a closed loop that you fully control
+- Values are built into the infrastructure — not just the rulebook
+
+### If You Are a Corporation or Distributor
+- Run a closed loyalty and payment network for your sales agents and buyers
+- Digitise payments across your distribution chain instantly
+- Reward buyers with points redeemable only within your network
+- Launch in under 1 hour — no banking partnerships required
+- Optional branded Dedicated Portal from $250 for a fully customised web presence
+
+### If You Are a Diaspora Network
+- Send money home with full control over how it is spent
+- Generate Gift Accounts restricted to pharmacies, schools, or grocery merchants
+- No risk of funds being misused — spend controls are built into the wallet
+- Sponsors log into a dedicated web portal and fund wallets remotely
+
+### If You Are a Developer or Platform Owner
+- Get your app certified and distributed to thousands of community members with one click
+- Members are automatically pre-registered, notified, and ready to use your service — near-zero acquisition cost
+- Revenue sharing model between Helloopass OS, the Community, and the App owner
+- Terms defined upon certification
+- Register at: **https://0d834e18.mydala.app/**
+
+### Across All Organization Types — The Core Reasons
+
+- **Your own economy** — governed by your own rules and values
+- **Works on basic phones** — no smartphone or bank account required
+- **UN WFP validated** — enterprise-grade security and robustness
+- **Free to start** — standard platform at no cost
+- **Live in under 1 hour** — no lengthy onboarding or banking partnerships
+- **5 ready-to-use community models** — pick the one that fits your reality
+- **Access to a certified app marketplace** — the Helloopass Store
+- **No traditional payment network gives you this level of control** over who participates in your economy and what values govern it
+
+### In One Sentence
+Helloopass OS gives any organization — regardless of size, sector, or geography — the tools to build, govern, and grow their own economy on their own terms, their own values, and their own timeline, starting in under one hour, for free.
+
+
+## Why Would a Community Join Helloopass?
+
+A community joins Helloopass because it gives them something no bank, no mobile money operator, and no payment app has ever offered — **their own economy, built on their own values.**
+
+### 1. They Own Their Economy
+- The community holds its own funds in its own bank account — not Helloopass, not a bank, not a telecom
+- The community sets its own rules, its own merchants, its own members
+- Stablepoints are backed 1:1 by real cash — the community controls the currency
+
+### 2. They Embed Their Own Values
+This is one of the most powerful and unique features of Helloopass — a community can decide exactly what kind of economy it wants to be.
+
+Because Helloopass operates as a **closed-loop ecosystem**, the community administrator controls who is allowed to join as a merchant or member. This means:
+
+- A **religious organization** can exclude merchants selling alcohol, gambling services, or adult content — simply by not approving them
+- A **women's cooperative** can restrict membership to women-owned businesses only
+- A **health-focused community** can limit merchant categories to pharmacies, clinics, and nutritional products
+- An **ethical trade network** can require all merchants to meet fair trade or environmental standards
+
+No traditional payment network — not Visa, not Mastercard, not M-Pesa — gives a community this level of control over who participates in their economy and what values govern it. In a Helloopass community, **values are built into the infrastructure, not just the rulebook.**
+
+### 3. They Can Trade Without Cash Friction
+- Members buy and sell instantly using Stablepoints
+- No waiting for bank transfers, no interchange fees, no middlemen
+- Works on basic phones via OTP — no smartphone needed
+
+### 4. They Can Support Their Most Vulnerable Members
+- Sponsors, NGOs, and diaspora can top up member wallets with spend controls
+- BNPL gives merchants instant cash while giving buyers time to pay
+- Gift Accounts restrict spending to health, education, or food — ensuring aid reaches its intended purpose
+
+### 5. They Access a Certified App Ecosystem
+- Through the Helloopass Store, community managers can activate third-party apps with one click
+- Members are automatically pre-registered, notified, and ready to use new services instantly
+- Revenue from app usage is shared with the community
+
+### 6. They Get Institutional Credibility
+- UN World Food Programme (WFP) validated — communities using Helloopass are part of a platform trusted by the world's largest humanitarian organizations
+
+### 7. They Can Start in Under 1 Hour — For Free
+- No banking partnerships required
+- No technical skills needed
+- The standard platform is completely free
+- Optional Dedicated Portal available from $250 for communities that want their own branded website
+
+### 8. They Choose Their Model
+Five ready-to-use community models — each community picks the one that fits their reality:
+- **Cooperative / Union** — member-funded closed-loop economy
+- **Disbursement** — NGO or government-sponsored aid distribution
+- **Distribution** — corporate closed network with loyalty programs
+- **Gift Card** — diaspora and sponsor-funded restricted wallets
+- **E-commerce** — online marketplace powered by Stablepoints
+
+### In One Sentence
+Helloopass gives any community — a cooperative, a church, a diaspora group, an NGO, a corporation, or a women's trading group — the tools to build, govern, and grow their own economy on their own terms and their own values, starting in under one hour, for free.
+
+
+## Helloopass OS — Traction & Milestones (As of March 2026)
+
+### 1. Proven Product-Market Fit in a Real-World, High-Stakes Environment
+
+Helloopass OS is not a pilot — it is a live, thriving ecosystem:
+
+- **500,000 active users** transacting daily for real needs
+- **5,000 merchants** integrated and active on the platform
+- **2 million+ transactions** completed in 2025–2026
+- **Adopted by the UN World Food Programme (WFP)** — one of the world's most demanding validators of technology robustness, security, and effectiveness for critical humanitarian aid distribution
+
+The WFP adoption is not just a client win — it is a global stamp of credibility proving that Helloopass OS is enterprise-grade, secure, and fit for the most critical use cases on the planet.
+
+### 2. A Working, Bank-Integrated Financial Engine
+
+Helloopass operates a proprietary internal gateway platform that successfully connects the digital Stablepoints economy to the traditional banking system. This means:
+
+- Real-time settlement into local bank accounts for merchants and gig workers
+- Full integration with mobile money providers (MTN, Orange, Airtel, and others)
+- Not avoiding banks — plugging into them for final settlement, which is critical for trust and scalability at every level
+
+### 3. Strategic Expansion Mode
+
+As of March 2026, Helloopass is actively expanding into new markets with **Kenya** and **Ivory Coast** as the next living laboratories. The expansion tests 5 distinct business models to identify which unlock the most value in each new market:
+
+- **E-commerce** — online shopping powered by Stablepoints
+- **Distribution** — getting goods to merchants through a closed-loop network
+- **Disbursement** — sending funds for remittances, aid, and social transfers
+- **Marketplace** — connecting buyers and sellers within communities
+- **Gift Cards** — digital vouchers with spend controls for diaspora and sponsors
+
+This is data-driven market expansion — not guessing, but systematically validating which models generate the most impact and revenue in each geography.
+
+
+## Is There a Similar Platform to Helloopass OS Worldwide?
+
+No platform worldwide currently combines everything Helloopass OS does in a single stack. There are partial competitors in different segments, but none replicates the full Helloopass model.
+
+### Partial Competitors by Segment
+
+**Closed-loop community payment platforms:**
+- **Sarafu Network / GiveDirectly** (Kenya) — community currency on blockchain, but limited to aid and NGO use only
+- **Colu** (Israel) — local community currencies, now largely discontinued
+- **Cyclos** — open-source community banking software, but requires heavy technical setup and expertise
+
+**Mobile money platforms:**
+- **M-Pesa** (Safaricom, East Africa) — dominant mobile money platform but not community-model based, no closed-loop economy
+- **Wave** (West Africa) — mobile money but no community OS layer
+- **Hellocash** (WOS IP) — Helloopass's own most popular platform, focused on mobile money only, no trading OS
+
+**Gift card / branded wallet platforms:**
+- **Yoyo Wallet, Perkbox, Bento** — corporate loyalty and gift wallets but no community model or solidarity economy design
+
+**Marketplace + payment OS:**
+- **Shopify + Stripe** — powerful but requires technical skills, no community model, no Stablepoints, no inclusion features
+- **WooCommerce + payment plugins** — similar gap
+
+**Diaspora remittance with spend control:**
+- **Mama Money, Sendwave** — remittance only, no spend restriction or community layer
+
+### What Makes Helloopass Uniquely Positioned
+
+No platform worldwide currently combines all of the following in a single OS:
+
+- Community management (buyers, merchants, gig workers, sponsors, agents)
+- Closed-loop Stablepoints economy backed 1:1 by real cash
+- 5 ready-to-use community models
+- Built-in KYC — verified once, valid everywhere
+- Works on basic phones (OTP method)
+- Third-party app distribution (Helloopass Store)
+- AI-generated branded portal option (Dedicated Portal)
+- Solidarity economy design — built for cooperatives, NGOs, diaspora, and underserved communities
+- No banking relationship required to get started
+- Ready in under 1 hour
+
+**Helloopass OS is the only platform worldwide that operates as a full Trading & Payment civilization for communities — from the ground up.**
+
+### The White Space Helloopass Occupies
+
+No country, no platform, no company has assembled all these pieces into one community-owned OS:
+
+- **Cooperative governance** — communities set their own rules, manage their own members, and control their own economy
+- **Community-held funds** — the community, not Helloopass, is the custodian of all funds held in the community's own bank account
+- **BNPL (Buy Now Pay Later)** — credit lines for beneficiaries within the community (Disbursement model)
+- **Gift Accounts** — sponsor-funded restricted wallets with spend controls (Gift Card model)
+- **Trade documents** — transaction records, receipts, and settlement statements for every trade within the community
+- **Inter-community clearing** — coming end of June 2026, enabling points and payments to flow between communities
+- **Certified app marketplace** — the Helloopass Store, where third-party developers distribute certified apps directly to community members with one-click activation
+- **Community operating system layer** — Helloopass sits above all existing payment rails (M-Pesa, Pix, SEPA, mobile money), connecting them into a single OS that communities control
+
+Helloopass does not compete with M-Pesa, Pix, or any payment app. It provides the **community operating system layer** that sits above all of them — connecting communities into a solidarity economy that no single payment app can replicate.
+
+**That is the white space Helloopass occupies.**
+
+
+## What Makes Helloopass BNPL Unique?
+
+Most BNPL services like Klarna or Afterpay are offered by a single company to individual customers. The company takes all the risk — if the customer doesn't pay, the company loses money. Helloopass BNPL is completely different.
+
+It is built on the traditional African way of trading on trust — the same way merchants, processors, distributors, and retailers have given each other short-term supplier credit for generations.
+
+### The Traditional African Way
+
+Across Africa, nearly **70% of short-term supplier credit (3–15 days)** between processors, distributors, and retailers is based entirely on trust. No contracts. No banks. Just a handshake and a promise.
+
+This system works for trust — but it hurts cash flow for the seller, whose operational cash is blocked for 3–15 days while waiting for payment.
+
+### How Helloopass BNPL Works — The Reverse Model
+
+Helloopass flips the traditional model upside down:
+
+- **Traditional BNPL:** The buyer borrows money from a lender to pay the seller
+- **Helloopass BNPL:** The seller (merchant) gets a credit line from Helloopass. When they trust a customer, they offer BNPL. The merchant gets paid instantly (at a small discount), and the customer pays Helloopass later
+
+### The Step-by-Step Flow
+
+1. A merchant has a trusted customer who wants to buy but needs 15 days to pay
+2. The merchant offers BNPL to that customer via Helloopass
+3. Helloopass pays the merchant **instantly at a 5% discount** (maximum 15-day term)
+4. The customer receives the goods and pays Helloopass the full amount within 15 days
+5. Helloopass keeps the 5% discount as revenue (shared with banks, communities, etc.)
+
+**Example:** Customer buys $100 of goods on BNPL → Helloopass pays merchant $95 instantly → Customer pays Helloopass $100 within 15 days → Helloopass makes $5 (5% return in 15 days = ~10% monthly).
+
+### The Critical Safety Mechanism — Merchant Guarantee
+
+This is what makes Helloopass BNPL unique and low-risk:
+
+- **Merchant collateralizes the buyer** — if the buyer does not pay, the amount is taken from the merchant's wallet
+- **Merchant provides guarantees** — if the merchant's wallet has insufficient funds, pre-provided guarantees apply (bank account, community wallet, or inventory)
+- **Result** — merchants only offer BNPL to customers they truly trust, because the merchant loses money if the customer defaults
+
+This creates perfect alignment: the merchant knows the customer best and has the strongest incentive to avoid bad debt.
+
+### The Multiple Advantages
+
+- **Scoring done by merchants** — no complex AI credit scoring needed; merchants already know who is trustworthy
+- **Merchants onboard new members** — when a merchant offers BNPL to a new customer, that customer joins Helloopass; merchants become the best acquisition channel
+- **Instant cash for merchants** — no more waiting 3–15 days; operational cash flow is freed immediately
+- **Low risk for Helloopass** — the merchant guarantees the buyer; default risk is carried by the merchant, not Helloopass
+- **Works for rural women traders** — women trading farm goods can collateralize each other through group guarantees; no formal assets needed
+
+### The Rural Women Trader Example
+
+In many rural African communities, women traders sell vegetables, grains, or handmade goods with no bank account, no credit score, and no formal collateral. Here is how Helloopass BNPL works for them:
+
+1. A group of 5 women traders join Helloopass together
+2. Each woman provides a group guarantee for the others
+3. When one woman sells to a trusted buyer on BNPL, Helloopass pays her instantly
+4. If her buyer defaults, the other 4 women cover the loss (community collateral)
+5. Because no one wants to let the group down, default rates are near zero
+
+This is the traditional African rotating savings group (VSLA) model — now digitized and connected to BNPL.
+
+### Helloopass BNPL vs Traditional BNPL
+
+| Dimension | Traditional BNPL (Klarna, Afterpay) | Helloopass BNPL |
+|---|---|---|
+| **Risk** | Lender takes all the risk | Merchant guarantees the buyer |
+| **Credit scoring** | Complex AI scoring required | Trust and community standing only |
+| **Seller payment** | Waits days or weeks | Paid instantly (at 5% discount) |
+| **Who repays** | Customer pays the lender | Customer pays Helloopass |
+| **Eligibility** | Formal customers only | Works for rural women with group guarantees |
+| **African trust credit** | No connection | Built exactly on the 70% trust-based system |
+
+### In One Sentence
+
+Helloopass BNPL reverses the traditional model: merchants get a credit line, pay a 5% discount to be paid instantly, and guarantee their own buyers — exactly replicating the 70% of African trust-based supplier credit, but without blocking cash flow.
+
+
+## What Differentiates Helloopass from a Traditional Mobile Money Service Provider?
+
+On the surface, both Helloopass and traditional mobile money (M-Pesa, MoMo, Orange Money) use a pool account model to back digital balances with real cash. But that is where the similarity ends.
+
+### 1. Who Owns the Pool Account
+- **Mobile money:** the telecom operator holds the pool account — users trust a corporation with their money
+- **Helloopass:** the community itself holds its own bank pool account — members trust their own community
+
+### 2. Who Governs the Economy
+- **Mobile money:** governed by a corporation — rules, fees, and access set by the operator
+- **Helloopass:** governed by the community — rules, values, merchant approvals, and fees set by the community administrator
+
+### 3. Closed Loop vs Open Network
+- **Mobile money:** open network — anyone can send to anyone, anywhere
+- **Helloopass:** closed-loop ecosystem — points stay within the community, keeping value circulating internally
+
+### 4. Values Embedded in the Infrastructure
+- **Mobile money:** no values layer — any merchant, any transaction, no restrictions
+- **Helloopass:** communities decide who joins, what is sold, and what values govern the economy
+
+### 5. Merchant Model
+- **Mobile money:** merchants pay to accept payments, no community loyalty mechanism
+- **Helloopass:** merchants are part of the community ecosystem — free advertising, indirect community funding, BNPL, and a pre-built customer base
+
+### 6. BNPL
+- **Mobile money:** not available natively
+- **Helloopass:** native BNPL where the merchant guarantees the buyer — built on the traditional African 70% trust-based credit model
+
+### 7. Financial Data Profile
+- **Mobile money:** transaction data owned by the telecom operator
+- **Helloopass:** transaction data belongs to the merchant — builds a verifiable financial profile that opens access to traditional finance
+
+### 8. App Ecosystem
+- **Mobile money:** closed — no third-party app marketplace
+- **Helloopass:** open — the Helloopass Store allows certified third-party apps to be distributed to community members with one click
+
+### 9. Multiple Community Models
+- **Mobile money:** one model — individual wallet
+- **Helloopass:** 5 models — Cooperative, Disbursement, Distribution, Gift Card, E-commerce
+
+### 10. Solidarity Economy Design
+- **Mobile money:** designed for commercial transactions between individuals
+- **Helloopass:** designed for community empowerment — cooperatives, NGOs, diaspora, religious organizations, women traders, and rural communities
+
+### In One Sentence
+Both use a pool account to back digital balances — but mobile money is a **pipe owned by a corporation**, while Helloopass is a **community-owned economy** where the pool account, the rules, the values, and the merchants all belong to the community itself.
+
+
+## How Does Helloopass Compare to Traditional Mobile Money (M-Pesa, MoMo, Orange Money)?
+
+Mobile money platforms and Helloopass share some common ground — all work on mobile phones, all enable digital payments without a traditional bank account, all are widely used in Africa and emerging markets, and all support mobile money top-ups and transfers. But the differences are fundamental.
+
+### Feature Comparison
+
+| Dimension | M-Pesa / MoMo / Orange Money | Helloopass |
+|---|---|---|
+| **What it is** | Mobile wallet for individuals | Full Trading & Payment OS for communities |
+| **Unit of operation** | Individual user | The community as a whole |
+| **Currency** | National fiat (KES, XOF, GHS etc.) | Stablepoints — community-owned, backed 1:1 by real cash |
+| **Community governance** | None | Full cooperative governance — community sets its own rules |
+| **Funds custody** | Held by the telecoms operator | Held by the community in its own bank account |
+| **Closed-loop economy** | No — open network | Yes — points stay within the community |
+| **Merchant model** | Pay any merchant anywhere | Licensed merchants within the community ecosystem |
+| **BNPL / credit lines** | Not native | Built-in via Disbursement model |
+| **Gift Accounts with spend control** | Not available | Native — restrict spending to pharmacies, schools, etc. |
+| **Gig worker payouts** | Manual bank transfer | Native cash-out built into the OS |
+| **Sponsor top-ups** | Not available | Native — diaspora, NGOs, corporations |
+| **App marketplace** | None | Helloopass Store — certified apps distributed to communities |
+| **Works on basic phone** | Yes — USSD | Yes — OTP method |
+| **KYC** | Per operator, repeated | Once — universal across all communities |
+| **Business models** | One model | 5 models: Cooperative, Disbursement, Distribution, Gift Card, E-commerce |
+| **UN WFP validated** | No | Yes |
+| **Setup for a new community** | N/A — individual wallets only | Under 1 hour |
+
+### The Strategic Relationship
+
+Helloopass does not compete with M-Pesa, MoMo, or Orange Money — it **uses them as top-up rails**. Members can fund their Helloopass wallets directly via MTN MoMo, Orange Money, M-Pesa, and other mobile money providers.
+
+M-Pesa, MoMo, and Orange Money are **pipes** — they move money from A to B for individuals.
+
+Helloopass is the **community OS** — it sits above those pipes, creates a shared economy, and gives communities tools that no mobile money operator was ever designed to provide.
+
+**In short: M-Pesa sends money. Helloopass builds economies.**
+
+
+## How Does Helloopass Compare to Mastercard Specifically?
+
+Mastercard and Helloopass operate in fundamentally different leagues — not because one is better than the other, but because they solve completely different problems.
+
+### Scale — Mastercard vs Helloopass (March 2026)
+
+| Metric | Mastercard | Helloopass |
+|---|---|---|
+| **Users** | 3+ billion cardholders | 500,000 active users |
+| **Merchants** | 100+ million | 5,000 |
+| **Transactions** | 100+ billion/year | 2 million+ |
+| **Founded** | 1966 | 2020s |
+| **Countries** | 210+ | Expanding — Kenya & Ivory Coast next |
+
+At pure scale, there is no comparison today — Mastercard is one of the largest financial networks ever built. But scale is not the point. Purpose is.
+
+### Purpose — Where They Fundamentally Differ
+
+| Dimension | Mastercard | Helloopass |
+|---|---|---|
+| **Who it serves** | Banked consumers with credit history | Unbanked, underserved, and community-based economies |
+| **Requires bank account** | Yes | No |
+| **Community governance** | None | Full cooperative governance |
+| **Funds custody** | Banks | The community itself |
+| **Currency** | National fiat only | Stablepoints — community-owned, backed 1:1 by real cash |
+| **BNPL / aid distribution** | Through third parties | Native — built into the OS |
+| **Gift Accounts with spend control** | Not available | Native feature |
+| **App marketplace** | None | Helloopass Store — certified apps, one-click community distribution |
+| **Works on basic phone** | No | Yes — OTP method |
+| **UN WFP validated** | No | Yes |
+| **Setup time** | Months — requires banking partnerships | Under 1 hour |
+| **Business model** | Interchange fees from merchants | Revenue sharing between OS, Community, and App owner |
+
+### The Strategic Reality
+
+Mastercard built the rails for the formal economy — the 3 billion people who already have bank accounts, credit scores, and smartphones.
+
+Helloopass is building the rails for the **solidarity economy** — the communities, cooperatives, diaspora networks, NGOs, and underserved populations that Mastercard was never designed to reach.
+
+They are not in the same race. Mastercard runs on existing infrastructure. Helloopass **creates** the infrastructure where none existed.
+
+**Mastercard is the payment network of the formal economy. Helloopass is the trading and payment OS of the solidarity economy.**
+
+And with UN WFP validation, 500,000 active users, and a bank-integrated engine already running — Helloopass is not a concept. It is already live where Mastercard cannot go.
+
+
+## What Differentiates Helloopass from a Traditional Acceptance Network like Visa or Mastercard?
+
+Both Helloopass and Visa/Mastercard process transactions between buyers and merchants. But the similarity ends there.
+
+### Full Comparison
+
+| Dimension | Visa / Mastercard | Helloopass |
+|---|---|---|
+| **Who owns the network** | A global corporation | The community itself |
+| **Who holds the funds** | Banks and financial institutions | The community's own bank pool account |
+| **Who sets the rules** | The card network and banks | The community administrator |
+| **Currency** | National fiat only | Stablepoints — community-owned, backed 1:1 by real cash |
+| **Pool account** | No — money flows through banking rails | Yes — every Stablepoint backed by real cash in the community pool |
+| **Values layer** | None — any merchant, any transaction | Full — community decides who is approved and what is sold |
+| **Closed loop** | No — open global network | Yes — points circulate within the community |
+| **Requires bank account** | Yes — for both buyer and merchant | No — works with no bank account, no smartphone |
+| **Merchant fees** | 1.5–3% interchange fees paid to the network and banks | ~1.5% shared between Helloopass OS, the community, and the app owner |
+| **Revenue sharing with community** | None — fees go to the network and banks | Yes — the community earns from every transaction |
+| **BNPL** | Through third-party providers only | Native — merchant guarantees the buyer, paid instantly |
+| **Free advertising for merchants** | None | Yes — merchants promote freely to all community members |
+| **Financial data profile** | Owned by the bank | Owned by the merchant — builds path to traditional finance |
+| **App ecosystem** | None | Helloopass Store — certified apps distributed to communities |
+| **Setup time** | Months — requires banking partnerships | 2–4 hours |
+| **Works on basic phone** | No | Yes — OTP method |
+| **Solidarity economy** | No — pure commercial network | Yes — designed for cooperatives, NGOs, diaspora, rural communities |
+| **UN WFP validated** | No | Yes |
+
+### The Three Fundamental Differences
+
+**1. Who Earns from the Transactions**
+With Visa and Mastercard, interchange fees flow to the network and the banks — the community gets nothing. With Helloopass, revenue is shared between Helloopass OS, the community, and the app owner. The community earns from its own economy.
+
+**2. Who Controls the Economy**
+Visa and Mastercard are open global networks — no community, no values, no governance. Helloopass is a closed-loop ecosystem where the community sets the rules, approves the merchants, and embeds its own values into the infrastructure.
+
+**3. Who Holds the Money**
+With Visa and Mastercard, money flows through banking rails controlled by financial institutions. With Helloopass, every Stablepoint is backed by real cash sitting in the community's own bank pool account — the community holds its own money.
+
+### In One Sentence
+Visa and Mastercard are global commercial rails that move money between banks — Helloopass is a community-owned trading and payment OS where the community holds its own funds, sets its own rules, earns from its own transactions, and builds its own economy on its own values.
+
+
+## How Does Helloopass Compare to Visa, Mastercard, or Any Credit Card Network?
+
+If you are wondering how Helloopass compares to Visa, Mastercard, American Express, or any traditional credit or debit card network — the answer is the same.
+
+Helloopass and traditional card networks share some common ground — both are infrastructure layers that process transactions across multiple countries, and both operate as co-branded ecosystems (Visa/Mastercard + Bank / Helloopass + Community). Neither holds your money directly.
+
+However Helloopass goes significantly further than any traditional payment processor or card network:
+
+| Dimension | Visa / Mastercard / Credit Cards | Helloopass |
+|---|---|---|
+| **Role** | Payment rails only | Full Trading & Payment OS |
+| **Economy** | Processes existing money | Creates a closed-loop community economy |
+| **Currency** | National currencies | Stablepoints (backed 1:1 by real cash) |
+| **Inclusion** | Requires a bank account and credit approval | Works with no bank account, no smartphone |
+| **Community** | No community layer | Built-in community management, KYC, merchants, gig workers |
+| **Distribution** | Through banks and financial institutions | Directly through communities |
+| **App ecosystem** | None | Helloopass Store — certified third-party apps distributed to communities |
+| **Solidarity model** | Commercial only | Designed for cooperatives, NGOs, diaspora, and underserved communities |
+| **Fees** | Interchange fees charged to merchants | Revenue sharing between Helloopass OS, Community, and App owner |
+| **Setup** | Requires banking partners and lengthy onboarding | Ready in under 1 hour |
+
+**The key difference:**
+Visa, Mastercard, and credit card networks move money between existing bank accounts. Helloopass creates an entire economy from scratch inside a community — with its own currency, its own merchants, its own members, and its own rules — all powered by a single OS.
+
+**In short: Visa, Mastercard, and credit cards are payment rails. Helloopass is a trading and payment civilization for communities.**
+
+
 ## What is a Community?
 
 A Helloopass community is a closed group that can include buyers, merchants, beneficiaries, sponsors, sales agents, and gig workers — all transacting using Stablepoints within a shared digital ecosystem. Points stay within the community and cannot be used outside of it.
@@ -700,6 +1246,120 @@ This model bridges traditional e-commerce with the Helloopass payment ecosystem,
 
 ---
 
+## Benefits for End Users
+
+Joining a Helloopass community gives an end user access to a secure, simple, and inclusive digital trading and payment ecosystem.
+
+**Financial Access**
+- No bank account needed — just a phone number
+- Works even on basic phones via SMS/OTP
+- Wallet created instantly upon joining
+- Top up via mobile money, cash agent, or bank transfer
+
+**Buy & Trade Within the Community**
+- Pay any licensed merchant in the community instantly
+- Send points to other members in seconds
+- QR code, NFC, or OTP payment — your choice
+- Digital receipt after every transaction
+
+**Security & Trust**
+- Stablepoints are backed 1:1 by real cash — no volatility
+- The community itself holds the funds — not a distant institution
+- PIN-protected transactions
+- Fraud protection built into the OS
+
+**Solidarity & Inclusion**
+- Be part of a community economy built around shared identity — cooperative, diaspora, NGO, or corporate network
+- Access to services and merchants specifically selected for your community
+- Beneficiaries can receive credit lines or sponsored wallets (Gift Card and Disbursement models)
+
+**Simplicity**
+- One KYC — done once, valid forever across all communities
+- One PIN — works across all your wallets
+- Join multiple communities — one app
+- No paperwork, no branch visits
+
+**Coming Soon**
+- Trade with members and merchants across other communities — full inter-community marketplace with clearing and settlement handled by Helloopass OS (end of June 2026)
+
+---
+
+## Benefits for a Cooperative Joining Helloopass
+
+Joining Helloopass as a cooperative unlocks a complete digital trading and payment infrastructure — built specifically for member-funded, solidarity-based economies.
+
+**Instant Digital Economy**
+- Launch a fully operational closed-loop payment ecosystem for your members with no technical expertise required
+- No need to build your own payment system — Helloopass OS powers everything
+- Members are onboarded instantly with a dedicated wallet per community
+
+**Full Payment Infrastructure**
+- Accept payments via QR code, NFC, OTP, and mobile money
+- Works on smartphones and basic phones — no member is excluded
+- Digital receipts for every transaction
+- Real-time transaction reporting and history
+
+**Fund Security & Transparency**
+- The cooperative holds its own funds in its own bank account — not Helloopass
+- Stablepoints are backed 1:1 by real cash — complete transparency
+- Every transaction is traceable and auditable
+- No risk of fund mismanagement — the OS enforces the rules
+
+**Member Management**
+- Full community administration portal
+- KYC verification handled automatically — compliant from day one
+- Manage merchant licenses, member wallets, and credit lines
+- Control who joins — open, request-based, or invitation-only
+
+**Merchant & Gig Worker Network**
+- Licensed merchants within the cooperative can sell and cash out their earnings
+- Gig workers can receive payment for services and cash out directly
+- Builds a self-sustaining internal economy where money circulates within the cooperative
+
+**Optional Branded Portal**
+- Order a dedicated web portal with your own logo, colors, and domain from as little as $250
+- AI-generated design — live in under 1 hour
+- Members see your brand, not Helloopass
+
+**Helloopass Store Access**
+- Community managers can activate third-party certified apps for their members with a single click
+- Members are pre-registered automatically — no friction
+- Revenue sharing applies when apps generate payments — the cooperative earns a share
+
+**Inter-Community Trading (Coming June 2026)**
+- Trade with other Helloopass communities — buy, sell, and transfer points across community boundaries
+- Full clearing and settlement handled by Helloopass OS — no external infrastructure needed
+- Your cooperative becomes part of a wider, borderless solidarity marketplace
+
+**Bottom Line**
+Helloopass gives a cooperative everything it needs to run a modern, cashless, transparent, and inclusive internal economy — at zero monthly cost, with no technical burden, and with the full power of a world-class Open Trading & Payment OS behind it.
+
+
+## Quick Reference — The 5 Community Models Compared
+
+| Feature | Model 1 Cooperative / Union | Model 2 Disbursement | Model 3 Distribution | Model 4 Gift Card | Model 5 E-commerce |
+|---|---|---|---|---|---|
+| **Who funds it** | Members themselves | NGO / Government / Institution | Corporation | Sponsor / Diaspora | Buyers (card or wallet) |
+| **Who benefits** | All members | Beneficiaries (women, youth, etc.) | Buyers / agents | Beneficiaries | Online shoppers |
+| **Who sells** | Licensed members | Approved merchants | The corporation | Pre-approved merchants | Online suppliers |
+| **Credit line** | No | Yes — BNPL available | No | No — pre-funded wallet | No |
+| **Spend control** | No | Optional | No | Yes — category restricted | No |
+| **Cash out** | Licensed merchants & gig workers | Merchants only | Merchants & agents | Merchants only | Suppliers |
+| **Best for** | Savings groups, cooperatives, trade unions | Humanitarian aid, social transfers | Retail chains, distributors, franchises | Diaspora support, corporate gifting | Online marketplaces |
+| **Values control** | Full | Full | Full | Full | Full |
+| **Works on basic phone** | Yes | Yes | Yes | Yes | Yes |
+| **Free to start** | Yes | Yes | Yes | Yes | Yes |
+| **Live in** | Under 1 hour | Under 1 hour | Under 1 hour | Under 1 hour | Under 1 hour |
+
+All 5 models share the same core infrastructure:
+- Closed-loop Stablepoints economy backed 1:1 by real cash
+- Community holds its own funds in its own bank account
+- Community sets its own values, rules, and merchant approvals
+- KYC done once — valid across all communities forever
+- Access to the Helloopass Store certified app marketplace
+- Optional Dedicated Portal from $250 for a branded website
+
+
 ## KYC Verification
 
 KYC (Know Your Customer) verification is done only once — for your first community. You'll need to provide:
@@ -735,6 +1395,298 @@ The same PIN works across all your communities and wallets. Avoid sequential num
 7. You're ready to top up and start transacting!
 
 ---
+
+## Why Should I as a Merchant Join a Helloopass Community?
+
+Joining a Helloopass community gives a merchant something traditional payment systems never could — an instant, loyal, pre-registered customer base inside a closed economy designed to keep spending within the network.
+
+### 1. Instant Access to a Pre-Built Customer Base
+- Every member of the community is a potential customer
+- When a community manager activates your merchant account, all members are notified via email, SMS, and in-app
+- No marketing spend, no customer acquisition cost
+
+### 2. Get Paid Instantly — Even on Credit Sales (BNPL)
+- Accept Stablepoints payments instantly via QR code, NFC, OTP, or phone number
+- Offer BNPL to trusted customers and get paid instantly at a 5% discount — no more waiting 3–15 days for payment
+- Free your operational cash flow immediately
+
+### 3. Competitive Transaction Fees
+- Merchant transaction fees are around **1.5%** — similar to Visa and Mastercard
+- No hidden fees, no interchange complexity
+- Revenue sharing model — transparent and community-aligned
+
+### 4. Free Advertising to the Entire Community
+- Merchants can promote their offers, discounts, and promotions **directly to all community members at no cost**
+- Promotions appear inside the Helloopass app — reaching every member instantly
+- No need for external advertising platforms or marketing budgets
+
+### 5. Indirect Funding from the Community
+- Merchants benefit from the community's collective economic support — members are incentivised to spend within the closed loop
+- The community itself has a stake in keeping merchants healthy and active
+- Community managers can actively promote specific merchants to drive traffic and sales
+
+### 6. Multiple Payment Methods — Works on Any Phone
+- Customers pay via QR scan, NFC card, OTP (basic phone), or phone number entry
+- No customer needs a smartphone or bank account to pay you
+
+### 7. Cash Out Anytime
+- As a licensed merchant, you are one of the only members who can convert Stablepoints back to real cash
+- Withdraw to your bank account or mobile money wallet at any time
+
+### 8. BNPL Becomes Your Competitive Advantage
+- Offer trusted customers the ability to buy now and pay in 15 days
+- You get paid instantly by Helloopass at a 5% discount
+- You control who gets BNPL — based on your own trust, not a credit agency
+
+### 9. Become a Community Agent
+- Top up member wallets with cash — earn a fee on every conversion
+- Become the go-to financial access point for your community
+
+### 10. Your Values, Your Customers
+- The community you join reflects your values
+- Every merchant in your community has been approved by the same administrator
+- You are not competing with merchants outside your values ecosystem
+
+### 11. Free to Join — Live in Under 1 Hour
+- No setup fees for the standard platform
+- No banking partnerships required
+- Start accepting payments immediately
+
+### 12. Build Your Financial Data Profile — Access Traditional Finance
+Every transaction a merchant processes on Helloopass is recorded, timestamped, and traceable. Over time this builds a **verifiable financial data profile** that includes:
+
+- Transaction volume and frequency
+- Revenue trends over time
+- Customer payment behaviour
+- BNPL repayment history
+- Seasonal trading patterns
+
+This data is invaluable when approaching traditional financial institutions for:
+- **Business loans** — banks and microfinance institutions can assess creditworthiness based on real transaction history rather than collateral alone
+- **Working capital financing** — demonstrate consistent cash flow to unlock credit lines
+- **Invoice financing** — use verified trade records as the basis for funding
+- **Insurance products** — transaction history supports risk assessment for business insurance
+- **Investor funding** — verifiable revenue data strengthens any funding pitch
+
+For the millions of informal merchants across Africa and emerging markets who have never had access to formal financial services — **Helloopass becomes their first verifiable financial identity.** No more invisible businesses. Every transaction builds a track record that the traditional finance industry can read, trust, and fund.
+
+**In short: every sale on Helloopass is not just revenue — it is data that builds your path to traditional finance.**
+
+### In One Sentence
+Joining a Helloopass community as a merchant means instant customers, instant payments, instant cash flow, free advertising, indirect community funding, and a verifiable financial data profile that opens the door to traditional finance — inside an economy built around trust, values, and solidarity.
+
+
+## How Do I Acquire Stablepoints After Joining a Community?
+
+Once you have joined a community, there are 6 ways to acquire Stablepoints:
+
+### 1. Cash to a Community Agent *(instant)*
+Give cash to any community member acting as an agent. They convert your cash into Stablepoints and transfer them to your wallet instantly.
+
+### 2. Bank Transfer
+- Via API integration — instant
+- Via manual receipt upload — up to 15 minutes
+
+### 3. Mobile Money *(instant)*
+Top up directly via MTN MoMo, Orange Money, Airtel Money, and other supported mobile money providers.
+
+### 4. Receive Points from Another Member
+Any member of the same community can send you Stablepoints directly to your wallet.
+
+### 5. Merchant Exchange
+Visit any approved merchant in your community — hand them cash, and they convert it to Stablepoints in your wallet.
+
+### 6. Sponsor Top-Up *(for diaspora / NGO models)*
+A sponsor — diaspora family member, NGO, corporation, or government — tops up your wallet remotely via a credit card portal.
+
+### Important to Remember
+- All top-up methods result in Stablepoints backed **1:1 by real cash**
+- The equivalent real cash is held in the **community's own bank account** — not Helloopass
+- Stablepoints can only be used **within your community** — they cannot be used in another community
+- Cross-community transfers are coming at the **end of June 2026**
+
+
+## Can a Merchant Cash Out Their Stablepoints for Real Cash?
+
+Yes — licensed merchants can cash out their Stablepoints at any time. There are **3 cash out methods** available:
+
+1. **Mobile Money** — transfer directly to MTN MoMo, Orange Money, Airtel Money, or any supported mobile money provider
+2. **Bank Account** — transfer directly to the merchant's bank account
+3. **Cash** — receive the equivalent amount in physical cash
+
+### How Cash Out Works
+
+All cash out transactions are **regulated via the community administrator** and can happen in two ways:
+
+- **On demand** — the merchant requests a cash out at any time and it is processed by the community administrator
+- **Daily clearing process** — cash outs are batched and settled at the end of each day as part of a regular clearing cycle
+
+### Key Points
+- Merchants can cash out **anytime** — no holding period
+- Cash out is always processed through the **community administrator** — not directly by Helloopass
+- The community administrator oversees and validates all cash out transactions, ensuring full compliance with the community's rules and the laws of the country
+- Regular end users cannot cash out — only licensed merchants and gig workers
+
+### The Community Bank Pool Account — The Settlement Layer
+
+All funds within a Helloopass community are maintained at the **community level** in a dedicated **bank pool account** owned by the community itself — not by Helloopass.
+
+When the system is fully automated, **all transactions — including cash outs, top-ups, and transfers — must go through the community's bank pool account** to settle and clear. This means:
+
+- Every Stablepoint in circulation is backed by real cash sitting in the community's bank pool account
+- Every cash out reduces the pool account balance by the equivalent amount
+- Every top-up increases the pool account balance by the equivalent amount
+- The bank pool account is the single source of truth for the community's economy — fully transparent, fully auditable
+
+This architecture ensures that:
+- The community always holds its own funds — never Helloopass
+- Settlement is clean, traceable, and compliant
+- The community's economy is always 100% backed by real cash — no fractional reserve, no risk of insolvency
+
+
+## Can a Regular User Exchange Their Stablepoints for Cash?
+
+No — a regular end user **cannot** convert their Stablepoints back to cash under any circumstance. Only **licensed merchants** and **gig workers** are allowed to cash out.
+
+### What a Regular User Can Do With Their Stablepoints
+
+A regular user has two options — and both are **completely free with no fees**:
+
+1. **Send points to another regular user** — peer-to-peer transfers within the same community are free, no fees involved
+2. **Purchase from a merchant** — paying a merchant within the community is free for the buyer, no fees involved
+3. **Use BNPL** — buying on the BNPL option as a buyer is also free — no fees for the end user
+
+### Summary of Fees for a Regular User
+
+| Action | Fee for Regular User |
+|---|---|
+| Send points to another member | Free |
+| Purchase from a merchant | Free |
+| Use BNPL as a buyer | Free |
+| Cash out to real money | Not available |
+
+Fees only apply at the **merchant level** (~1.5% transaction fee) and at the **BNPL level** (5% discount paid by the merchant to Helloopass). The regular user always transacts at zero cost.
+
+
+## Do You Need a Fully Verified KYC to Activate Your App?
+
+### It Depends on Two Factors
+
+The level of KYC required to activate and use the Helloopass app depends on:
+
+1. **The regulation of the country** — each country has its own KYC/AML requirements that Helloopass communities must comply with
+2. **The nature of the community** — different community types (cooperative, NGO disbursement, corporate distribution, etc.) may have different KYC thresholds set by the community administrator
+
+Some communities may allow members to access basic features with minimal identity verification, while others — particularly those operating in regulated environments or handling significant transaction volumes — may require full KYC before any transaction can take place.
+
+### Once Verified — Universal KYC Across All Communities
+
+If you have already completed a full verified KYC in one community, you do not need to go through KYC again when joining additional communities.
+
+However, your KYC information **will be shared with the new community** you are joining — so the new community is aware of your verified identity. By joining, you consent to this sharing.
+
+This means:
+- **One KYC verification** — valid across all Helloopass communities
+- **No repeated identity checks** — seamless onboarding into new communities
+- **Transparent sharing** — the new community receives your verified KYC data upon joining
+
+
+## Can a Buyer Purchase from Their Own Shop?
+
+No — this is not possible by design. The Helloopass platform does not allow a merchant to be both the buyer and the seller in the same transaction. A merchant cannot purchase from their own shop within the platform.
+
+
+## Can You Have Both the Personal and Merchant Apps on the Same Phone Using the Same SIM Card?
+
+Yes — you can install both the **Helloopass Personal App** and the **Helloopass Merchant App** on the same phone, using the same SIM card and the same phone number.
+
+Your phone number is your identity across the Helloopass platform. Having both apps on the same device simply means you can switch between your role as a buyer and your role as a merchant seamlessly — no second phone or second SIM card required.
+
+
+## Is the Merchant App the Same as the Customer App?
+
+No — they are two separate apps, both available on the **App Store** (iPhone) and **Google Play** (Android):
+
+- **Helloopass Personal App** — for end users / buyers / community members. Used to top up, pay merchants, send points, and manage wallets across communities.
+- **Helloopass Merchant App** — for merchants. Used to accept payments, manage sales, offer BNPL, view transaction history, and cash out earnings.
+
+A merchant who is also a member of a community as a buyer would use both apps — the Personal App for their purchases and the Merchant App for their sales.
+
+
+## Do I Need Multiple Apps If I Am a Member of Different Communities?
+
+No — you only ever need **one single app**.
+
+The Helloopass Personal App manages all your communities in one place. No matter how many communities you belong to, you simply switch between them within the same app.
+
+Each community gives you its own dedicated wallet — but all wallets are accessible from the same app with the same PIN.
+
+Think of it like a single banking app that shows all your different accounts in one place — you do not download a new app for each account.
+
+
+## Can I Install the Helloopass App Before Joining a Community?
+
+Yes — you can download and install the Helloopass Personal App from the **App Store** (iPhone) or **Google Play** (Android) at any time, even before you have joined a community.
+
+However, your app will remain **inactive** until you join a community.
+
+Once you join your first community:
+- Your KYC verification is completed
+- Your PIN is created
+- Your dedicated wallet is automatically activated
+- You are ready to top up and start transacting
+
+Think of it like downloading a banking app before opening an account — the app is there, ready and waiting, but it only comes to life once you are part of a community.
+
+
+## How Do I Join an Open Community?
+
+There are two ways to join an open community on Helloopass:
+
+### Option 1 — Via the Helloopass App
+1. Download the Helloopass Personal App from the **App Store** (iPhone) or **Google Play** (Android)
+2. Open the app and go to **Discover → Community**
+3. Find the community you want to join
+4. Tap **Join** — you are in instantly, no approval needed
+5. A dedicated wallet is automatically created for you
+
+### Option 2 — Via the Community's Dedicated Web Portal
+1. Go to the community's own website (e.g. shop.yourcommunity.com) if they have a Dedicated Portal
+2. Register directly on their portal
+3. Your account and wallet are created automatically
+
+### First Time on Helloopass?
+Before joining any community you will need to:
+1. Complete **KYC verification** once — provide your name, date of birth, ID, and a selfie (takes a few minutes to 24 hours)
+2. Create your **4–6 digit PIN**
+
+Once KYC is done, joining any additional open community is instant — no new KYC or PIN required. Your dedicated wallet is created automatically every time you join a new community.
+
+
+## Can I Join Any Community as an End User?
+
+The answer depends on how the community administrator has set up their community. There are 3 types of communities with different joining rules:
+
+1. **Open communities** — you can join instantly with no invitation needed. You can also join directly via the community's dedicated web portal.
+
+2. **Request-based communities** — you can request to join, but the administrator must approve your request before you gain access.
+
+3. **Invitation-only communities** — you cannot join unless you first receive an invitation via SMS, email, QR code, or link directly from the administrator.
+
+### The Deeper Reason
+
+Helloopass communities are **closed-loop ecosystems** — the community administrator controls who joins as a member or merchant. This is by design.
+
+A community built around specific values — religious, ethical, professional, or otherwise — needs to control its membership to preserve the integrity of its economy. For example:
+- A religious organization may only admit members who share its values
+- A women's cooperative may restrict membership to women-owned businesses
+- A corporate distribution network may only admit approved sales agents and buyers
+- An NGO disbursement community may only admit verified beneficiaries
+
+So the honest answer is: **you can try to join any community, but whether you get in depends entirely on the rules and values set by that community's administrator.**
+
+Once you are accepted, a dedicated wallet is automatically created for you — no new KYC or PIN needed.
+
 
 ## Joining a Community
 
@@ -2580,6 +3532,38 @@ The ride-hailing platform issues Sipho's weekly payout. Helloopass automatically
 ---
 
 
+## Are Helloopass Transactions Accessible to Tax Authorities?
+
+### Helloopass's Position
+Helloopass is a **platform** — it has no direct linkage with tax authorities in any country. Helloopass does not automatically share transaction data with any government, tax authority, or regulatory body.
+
+### The Community's Responsibility
+However, this does not mean communities operate outside the law. In the **agreement signed between Helloopass and every community**, communities explicitly engage themselves to:
+
+- Operate in **full compliance with the laws of their country**
+- Meet all applicable tax, financial, and regulatory obligations
+- Ensure all merchant activity within their ecosystem is lawful
+
+### The Consequence of Non-Compliance
+This is non-negotiable. If a community is found to be operating outside the legal framework of its country:
+
+> **The Helloopass agreement will be immediately cancelled.**
+
+Helloopass does not tolerate communities using its platform to circumvent the law, evade taxes, or operate illegally. The closed-loop nature of Helloopass communities is designed for **solidarity and financial inclusion** — not for operating in legal grey zones.
+
+### For Merchants
+Merchants operating within a Helloopass community are responsible for:
+- Declaring their income and revenue according to their country's tax laws
+- Using their Helloopass transaction history — which provides a full, verifiable financial data profile — to support accurate tax declarations
+- Complying with any local licensing requirements for their business category
+
+### In Summary
+- Helloopass has **no direct link** to tax authorities
+- Communities are **fully responsible** for legal compliance in their country
+- Non-compliance results in **immediate cancellation** of the Helloopass agreement
+- Merchant transaction data is available to merchants themselves and can support accurate tax reporting
+
+
 ## Contact & Support
 
 - **Email:** help@helloopass.com
@@ -2595,4 +3579,4 @@ When contacting support, please provide:
 
 ---
 
-*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved. (v1.7)*
+*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v1.8)*
