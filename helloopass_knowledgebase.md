@@ -1,5 +1,11 @@
 # Helloopass Knowledge Base
-*Open Trading & Payment OS — "The solidarity economy Click and Trade" — Wallet Guide v4.0*
+*Open Trading & Payment OS — "The solidarity economy Click and Trade" — Wallet Guide v4.1*
+
+---
+
+**Version history:**
+- v4.1 — App installation step-by-step flow added, emojis removed from registration section
+- v4.0 — Full architecture (4-layer OS), Events on the Fly, Trusted label, ACH 3-level, BNPL detail, competitive landscape, registration flows, merchant cash-out, community onboarding
 
 ---
 
@@ -94,22 +100,22 @@ Helloopass is called an OS because it is not an application that does one thing 
 Helloopass OS is not a single product. It is a fully layered operating system — exactly like Android or Windows — with a kernel at its core, system services on top, native applications above that, and a certified third-party app marketplace at the top.
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 4 — HELLOOPASS STORE (= Google Play Store)
   Certified Third-Party Apps — one click, pre-registered users
   Telemedicine | AI Services | Insurance | Logistics
   Savings | Agriculture | Content | And more
   Register: https://appstorehelloopass.belcashlabs.com/
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 3 — NATIVE APPLICATIONS (= Word, Excel, PowerPoint)
   Cooperative | Disbursement | Distribution
   Gift Card | E-commerce | BNPL | Events on the Fly
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 2 — OS SERVICES (= System Services)
   Float Management | PIN & Security | Merchant Licensing
   Admin Portal | Clearing & Settlement | Bank Integration
   Role Management | Multi-Currency FX
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 1 — KERNEL (= The Stablepoint Engine)
   1. Stablepoint Issuance & Backing
   2. Wallet Engine
@@ -117,11 +123,11 @@ Helloopass OS is not a single product. It is a fully layered operating system �
   4. Transaction Engine
   5. Billing & Invoicing Engine
   6. Bill of Lading & Trade Document Engine
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   INFRASTRUCTURE
   Community Bank Accounts | Mobile Money | Bank APIs
   Direct Bank Integration: Ethiopia & Kenya
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ```
 
 ---
@@ -511,22 +517,22 @@ Just as Google Play Store distributes certified Android apps to billions of user
 ### The Complete Architecture
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 4 — HELLOOPASS STORE (= Google Play Store)
   Certified Third-Party Apps — one click, pre-registered users
   Telemedicine | AI Services | Insurance | Logistics
   Savings | Agriculture | Content | And more
   Register: https://appstorehelloopass.belcashlabs.com/
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 3 — NATIVE APPLICATIONS (= Word, Excel, PowerPoint)
   Cooperative | Disbursement | Distribution
   Gift Card | E-commerce | BNPL | Events on the Fly
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 2 — OS SERVICES (= System Services)
   Float Management | PIN & Security | Merchant Licensing
   Admin Portal | Clearing & Settlement | Bank Integration
   Role Management | Multi-Currency FX
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   LAYER 1 — KERNEL (= The Stablepoint Engine)
   1. Stablepoint Issuance & Backing
   2. Wallet Engine
@@ -534,11 +540,11 @@ Just as Google Play Store distributes certified Android apps to billions of user
   4. Transaction Engine
   5. Billing & Invoicing Engine
   6. Bill of Lading & Trade Document Engine
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   INFRASTRUCTURE
   Community Bank Accounts | Mobile Money | Bank APIs
   Direct Bank Integration: Ethiopia & Kenya
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ```
 
 ### The Final Analogy — Precise and Complete
@@ -2013,6 +2019,47 @@ Each community gives you its own dedicated wallet — but all wallets are access
 Think of it like a single banking app that shows all your different accounts in one place — you do not download a new app for each account.
 
 
+## What Happens When I Install the Helloopass Personal App?
+
+Here is what happens step by step when you install and set up the Helloopass Personal App:
+
+**Step 1 — Download the app**
+Download the Helloopass Personal App from the **App Store** (iPhone) or **Google Play** (Android).
+
+**Step 2 — App is inactive**
+Once installed, the app will be **inactive** until you join a community. Think of it like a banking app before you open an account — it is there, ready and waiting, but it only comes to life once you are part of a community.
+
+**Step 3 — Join a community**
+Two ways to activate your app:
+- Go to **Discover — Community** and find an open community to join instantly
+- Or accept an invitation received via SMS or email from a community administrator
+
+**Step 4 — Complete KYC**
+For your first community, verify your identity once:
+- Your full name
+- Date of birth
+- Government-issued ID — front and back
+- A selfie for facial matching
+
+This takes a few minutes to 24 hours depending on your country and community type. Once done, it is valid forever across all communities — you never do it again.
+
+**Step 5 — Create your PIN**
+Set your **4 to 6 digit PIN** — your personal security code. Never share it with anyone. The same PIN works across all your communities.
+
+**Step 6 — Your wallet is activated**
+Once KYC is complete and your PIN is set, your dedicated wallet for that community is automatically created and activated. You are now ready to:
+- Top up your wallet
+- Pay merchants
+- Send points to other members
+- Use BNPL as a buyer
+
+**Key things to remember:**
+- One app manages all your communities — no need to download multiple apps
+- Each community gives you its own dedicated wallet
+- Your phone number is your identity across the platform
+- You can confirm payments with your PIN or with biometrics (fingerprint or face ID)
+
+
 ## Can I Install the Helloopass App Before Joining a Community?
 
 Yes — you can download and install the Helloopass Personal App from the **App Store** (iPhone) or **Google Play** (Android) at any time, even before you have joined a community.
@@ -3183,9 +3230,9 @@ A massive meeting at the Somali community center in Dubai. 400+ traders, logisti
 
 | Corridor | Route | What Moves |
 |---|---|---|
-| 🟢 The Americas | Africa → Dubai → Minneapolis → USA | Fish, food, crafts, art |
-| 🔴 Asia | Africa → Dubai → Shanghai → China | Coffee, commodities, goods |
-| 🔵 Europe | Africa → Dubai → London → Europe | Art, AI services, music, goods |
+|  The Americas | Africa → Dubai → Minneapolis → USA | Fish, food, crafts, art |
+|  Asia | Africa → Dubai → Shanghai → China | Coffee, commodities, goods |
+|  Europe | Africa → Dubai → London → Europe | Art, AI services, music, goods |
 
 **Africa to America via Minneapolis**
 Senegalese fishermen ship 10,000 boxes of fish. The goods route through Dubai to the Somali community distribution hub in Minneapolis. Hawa, a Somali-American businesswoman, pays 200,000 points instantly via Helloopass.
@@ -4218,11 +4265,11 @@ Merchants operating within a Helloopass community are responsible for:
 
 The registration process depends on who you are. Before anything else, identify which profile best describes you:
 
-- 🏛️ **Community leader / Organization / Diaspora leader** — a cooperative, NGO, religious group, corporation, diaspora network, or any recognized community
-- 👤 **Regular user / Member** — want to join a community as a buyer or member
-- 🛒 **Merchant** — want to sell goods or services within a community
-- 💻 **Developer / Platform owner** — want to list an app on the Helloopass Store
-- 🌍 **NGO / Government** — want to distribute aid or funds to beneficiaries
+-  **Community leader / Organization / Diaspora leader** — a cooperative, NGO, religious group, corporation, diaspora network, or any recognized community
+-  **Regular user / Member** — want to join a community as a buyer or member
+-  **Merchant** — want to sell goods or services within a community
+-  **Developer / Platform owner** — want to list an app on the Helloopass Store
+-  **NGO / Government** — want to distribute aid or funds to beneficiaries
 
 ### If You Are a Community (Organization, Cooperative, NGO, Corporation, Diaspora Network, etc.)
 Register your community via the official Helloopass community registration portal:
@@ -4284,4 +4331,4 @@ When contacting support, please provide:
 
 ---
 
-*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v3.1)*
+*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v4.1)*
