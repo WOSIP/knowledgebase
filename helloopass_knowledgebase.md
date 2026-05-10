@@ -28,6 +28,226 @@ A true industry pioneer, MVD was one of the first — if not the very first — 
 
 ---
 
+## Events on the Fly — Native Application
+
+Events on the Fly is one of Helloopass OS's native applications — the equivalent of Microsoft Teams in the native app suite. It enables:
+
+- **Real-time event creation** — set up an event community instantly
+- **Ticket sales** — sell tickets in Stablepoints to community members
+- **Kiosk merchant payments** — event vendors accept payments in Stablepoints collected in points
+- **Instant revenue splitting** — at event close, revenue is automatically split between organisers and vendors
+- **Same-day cash out** — merchants redeem their Stablepoints to bank account or cash at end of day
+- **Accelerated approval** — event organiser communities are approved in less than 2 hours
+
+This makes Helloopass the only community OS that can power an entire event economy — from ticket sales to vendor payments to revenue distribution — in a single closed-loop ecosystem.
+
+
+## Why Is Helloopass Considered an OS?
+
+Helloopass is called an **Operating System (OS)** — not just an app or a payment platform — because it does exactly what an OS does on a computer or smartphone: it provides the **foundational infrastructure** on which everything else runs.
+
+### 1. Just Like a Computer OS — It Is the Layer Everything Runs On
+- Windows or macOS does not do your work for you — it provides the environment in which your applications, files, and processes run
+- Helloopass does not run the community for you — it provides the environment in which members, merchants, wallets, payments, BNPL, trade documents, and third-party apps all operate
+- Remove the OS and nothing works. Remove Helloopass and the community economy stops.
+
+### 2. It Manages Multiple Resources Simultaneously
+A computer OS manages CPU, memory, storage, and input/output. Helloopass manages:
+- **Wallets** — creating, activating, and managing every member's wallet
+- **Identity** — KYC verification and universal identity across communities
+- **Payments** — processing, clearing, and settling all transactions via the ACH
+- **Merchants** — licensing, onboarding, and managing merchant accounts
+- **Funds** — managing the community bank pool account and ensuring 1:1 backing
+- **Apps** — the Helloopass Store distributes and manages third-party applications
+- **Communications** — push notifications, SMS, email across the ecosystem
+
+### 3. It Supports Multiple Applications on Top
+Just like Windows runs Word, Excel, and Chrome — Helloopass runs:
+- The Personal App
+- The Merchant App
+- The Community Management Portal
+- The Dedicated Web Portal
+- Third-party certified apps from the Helloopass Store
+- The BNPL engine
+- The ACH clearing engine
+- The Bill of Lading module (June 2026)
+- The Bulk Payment engine
+
+### 4. It Is Multi-Community — Like a Multi-User OS
+Just like a server OS manages multiple users simultaneously, Helloopass manages multiple communities simultaneously — each with its own wallets, merchants, rules, values, and bank pool account — all running on the same infrastructure.
+
+### 5. It Has Its Own ACH — The Clearing Engine of the Financial OS
+The Helloopass Advanced Automated Clearing House operates at three levels — intra-community (instant), inter-community same country (max 24 hours), inter-community cross-border (max 48 hours).
+
+### 6. It Is Open to Third-Party Developers
+Just like Windows or Android allows developers to build applications on top, Helloopass allows developers to build and certify apps via the Helloopass Store. The OS provides the infrastructure — developers bring the applications.
+
+### 7. It Has a Trusted Mode
+Just like an OS has a secure execution environment, Helloopass has the **"Helloopass OS — Trusted"** label — applied only when the system is fully automated, API-driven, and the 1:1 Stablepoints-to-cash ratio is confirmed in real time.
+
+### In One Sentence
+Helloopass is called an OS because it is not an application that does one thing — it is the foundational infrastructure layer on which an entire community economy runs, just as Windows or Android is the layer on which everything else on your device runs.
+
+
+## The Architecture of Helloopass OS — From Kernel to Store
+
+Helloopass OS is not a single product. It is a fully layered operating system — exactly like Android or Windows — with a kernel at its core, system services on top, native applications above that, and a certified third-party app marketplace at the top.
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  LAYER 4 — HELLOOPASS STORE (= Google Play Store)
+  Certified Third-Party Apps — one click, pre-registered users
+  Telemedicine | AI Services | Insurance | Logistics
+  Savings | Agriculture | Content | And more
+  Register: https://appstorehelloopass.belcashlabs.com/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  LAYER 3 — NATIVE APPLICATIONS (= Word, Excel, PowerPoint)
+  Cooperative | Disbursement | Distribution
+  Gift Card | E-commerce | BNPL | Events on the Fly
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  LAYER 2 — OS SERVICES (= System Services)
+  Float Management | PIN & Security | Merchant Licensing
+  Admin Portal | Clearing & Settlement | Bank Integration
+  Role Management | Multi-Currency FX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  LAYER 1 — KERNEL (= The Stablepoint Engine)
+  1. Stablepoint Issuance & Backing
+  2. Wallet Engine
+  3. KYC & Identity Layer
+  4. Transaction Engine
+  5. Billing & Invoicing Engine
+  6. Bill of Lading & Trade Document Engine
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  INFRASTRUCTURE
+  Community Bank Accounts | Mobile Money | Bank APIs
+  Direct Bank Integration: Ethiopia & Kenya
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+
+> **Visual Reference:** The 4-layer Helloopass OS architecture diagram is available interactively in the Helloopass AI Support Agent at the dedicated support portal. Ask the agent "show me the architecture of Helloopass" to view the interactive diagram.
+
+
+### Layer 1 — The Kernel (The Stablepoint Engine)
+
+The kernel is the **Stablepoint Engine** — the 1:1 cash-backed digital currency and trading infrastructure that makes everything else possible. It has 6 inseparable components. Remove any one and Helloopass ceases to function entirely.
+
+| # | Kernel Component | What It Does |
+|---|---|---|
+| 1 | **Stablepoint Issuance & Backing** | Creates and destroys Stablepoints in exact 1:1 ratio with real cash held in the community's own bank account. Every Stablepoint in circulation is fully backed. Always. |
+| 2 | **Wallet Engine** | Creates, manages, and secures a dedicated wallet for every member in every community they join. One member, multiple communities, multiple wallets — all managed by the kernel. |
+| 3 | **KYC & Identity Layer** | Verifies every participant once — done once, valid forever across all communities. The kernel always knows who every participant is. |
+| 4 | **Transaction Engine** | Processes, validates, records, and settles every transaction in real time. The beating heart of the OS — every point that moves, moves through here. |
+| 5 | **Billing & Invoicing Engine** | Generates, manages, and tracks invoices and bills between buyers, merchants, and service providers — within communities and across borders. |
+| 6 | **Bill of Lading & Trade Document Engine** | Issues, secures, and tracks digital trade documents — bills of lading, delivery confirmations, shipment records — enabling verifiable, trustworthy commerce between communities across borders. |
+
+> Components 5 and 6 are what elevate Helloopass from a payment platform to a full trading OS. A payment platform moves money. A trading OS also documents and verifies the commerce that justifies the movement of money.
+
+---
+
+### Layer 2 — The OS Services Layer (Built-In System Functions)
+
+These are the system services that come with every Helloopass deployment — not optional, not third-party, fundamental infrastructure that every community gets:
+
+| OS Service | What It Does |
+|---|---|
+| **Float Management** | Manual and API-based management of the community's cash reserve — the fuel tank of the economy |
+| **PIN & Security** | Authentication, fraud detection, transaction signing, device security |
+| **Merchant Licensing** | Onboarding, verifying, and licensing merchants within a community |
+| **Community Admin Portal** | The governance and management interface for community administrators |
+| **Clearing & Settlement** | Inter-community transaction clearing and multi-currency settlement between communities in different countries — no external clearing house needed |
+| **Bank Integration** | Direct connection to traditional banking systems — currently live in Ethiopia and Kenya |
+| **Role Management** | Defining and enforcing roles — buyer, merchant, gig worker, sponsor, admin — each with specific permissions and access rights |
+| **Multi-Currency FX** | Real-time foreign exchange conversion between community currencies, with USDT as an optional bridge currency for cross-border settlement |
+
+---
+
+### Layer 3 — Native Applications
+
+These are the applications Helloopass built and runs natively on its own OS. Just as Microsoft built Word, Excel, and PowerPoint on Windows — Helloopass built these on its own kernel. They are deeply integrated, fully optimized, and cannot be replicated by third-party developers without the same foundational infrastructure:
+
+| Helloopass Native App | Microsoft Equivalent | What It Does |
+|---|---|---|
+| **Cooperative / Union (Model 1)** | Word | The foundational document of the solidarity economy — peer-funded, peer-governed, peer-traded closed-loop community |
+| **Disbursement (Model 2)** | Excel | Structured, rule-based distribution of funds to defined beneficiaries — NGOs, governments, humanitarian programs |
+| **Distribution (Model 3)** | PowerPoint | The corporate presentation layer — one seller, multiple agents, multiple buyers, loyalty programs |
+| **Gift Card (Model 4)** | OneNote | Restricted, purpose-specific funding locked to pre-approved merchants — health, construction, education, food |
+| **E-commerce (Model 5)** | Outlook | The open marketplace connecting suppliers and buyers across the Helloopass ecosystem |
+| **BNPL Engine** | Access | Real-time credit management — merchant-guaranteed or API-based against confirmed earnings, with automatic repayment |
+| **Events on the Fly** | Teams | Real-time event creation, ticket sales, kiosk merchant payments collected in points, and instant revenue splitting on event close — merchants redeem to bank or cash end of day |
+| **Helloopass Store** | Play Store | The official certified app distribution marketplace — the platform layer that turns Helloopass into an ecosystem |
+
+---
+
+### Layer 4 — The Helloopass Store (= Google Play Store)
+
+This is where Helloopass becomes a true platform business — and where its competitive moat becomes almost impossible to replicate.
+
+Just as the Google Play Store distributes certified Android apps to billions of users without Google having to build every app, the Helloopass Store distributes certified third-party solutions to Helloopass community members worldwide — without Helloopass having to build everything.
+
+**The mechanics:**
+1. Developer registers at **https://appstorehelloopass.belcashlabs.com/**
+2. Helloopass certifies through a 5-phase process (Discovery → Contracting → Integration → Pilot → Full Launch)
+3. App is listed on the Helloopass Store
+4. All community managers worldwide are notified — they decide whether to activate it for their community
+5. One click → app icon appears on the Discovery page of every member in that community
+6. Members are automatically pre-registered — no new KYC, no new sign-up
+7. They choose to download — instant install from Google Play or App Store
+8. If payments are involved → three-party revenue sharing: Helloopass OS + Community + App Owner — terms defined upon certification
+
+**The network effect:** every new community that joins Helloopass makes the Store more valuable. Every new certified app makes communities more powerful. The two sides feed each other — exactly like Android and the Play Store.
+
+---
+
+### The Final Analogy
+
+If Visa is Microsoft Word — a powerful application that does one thing very well — then Helloopass is both **Windows AND Word**. It is the OS that everything runs on, it runs its own native applications (5 community models, BNPL, Gift Accounts, Events on the Fly), AND it has its own Play Store where certified third-party developers publish their solutions and instantly reach millions of pre-registered community members worldwide.
+
+**Visa needs a bank to be the OS. Helloopass needs no one.**
+
+
+## Why Is Helloopass Considered a Trading Platform?
+
+Helloopass is called a **Trading & Payment OS** — not just a payment platform — because it goes far beyond simply moving money from A to B.
+
+### 1. It Creates a Market, Not Just a Payment Rail
+A payment platform processes a transaction that already exists. Helloopass creates the entire marketplace where that transaction happens — with its own merchants, its own buyers, its own currency (Stablepoints), and its own rules. That is trading infrastructure, not just payment infrastructure.
+
+### 2. It Supports the Full Trade Cycle
+Helloopass covers every step of a trade:
+- **Discovery** — members find merchants on the Discovery page
+- **Negotiation** — BNPL allows buyers and merchants to agree on deferred payment terms
+- **Settlement** — Stablepoints transfer instantly between buyer and merchant
+- **Cash out** — merchants convert earnings to real cash via the bank pool account
+- **Financing** — merchant financial data builds a path to traditional trade finance
+
+### 3. BNPL is a Trade Finance Tool — Not Just Credit
+The Helloopass BNPL model replicates the traditional African supplier credit system — where a wholesaler delivers goods and gets paid later. This is **trade credit**, not consumer credit. It is the engine of commerce between producers, distributors, and retailers.
+
+### 4. It Enables Inter-Community Trade
+Helloopass is building cross-community transfers and payments — allowing communities to trade with each other. This is the architecture of a trading network, not a payment app.
+
+### 5. It Supports Trade Documents and Settlement
+Every transaction generates verifiable trade records — receipts, settlement statements, transaction history — that serve as trade documents for financing, tax reporting, and business credibility.
+
+### 6. It Connects the Informal Economy to the Formal Trade System
+For millions of informal traders — women selling vegetables, fishermen selling their catch, artisans selling crafts — Helloopass is their first formal trading infrastructure. It gives them a verifiable identity, a financial track record, and access to the formal economy.
+
+### 7. The Solidarity Economy is a Trading Economy
+"The solidarity economy Click and Trade" is not a coincidence — Helloopass was designed so that communities do not just pay each other, they **trade** with each other. Every Stablepoint that circulates within a community is a trade — goods and services exchanged for community currency.
+
+### 8. Bill of Lading (B/L) — Coming 1st June 2026
+Helloopass will introduce a **digital Bill of Lading (B/L)** on **1st June 2026** — a critical trade document used in the shipment of goods, covering consignor, consignee, goods description, quantity, and destination.
+
+This makes Helloopass one of the very few community trading platforms in the world to integrate a formal international trade document directly into its OS — bridging community-level trade with global commerce standards.
+
+
+### In One Sentence
+Helloopass is a trading platform because it does not just process payments — it creates the entire infrastructure for communities to produce, exchange, finance, and settle trade on their own terms.
+
+
 ## About Helloopass
 
 Helloopass — *"The solidarity economy Click and Trade"* — is one of the most advanced Open Trading & Payment Operating Systems worldwide, designed to empower communities in the simplest and most accessible way possible. It acts as the engine facilitating trading and payments inside a community — covering wallet creation, KYC verification, payment processing, merchant licensing, sponsor top-ups, and gig worker payouts — all in a seamless experience that works even on basic phones.
@@ -106,7 +326,7 @@ The answer depends on who is asking. Here is the full picture.
 - Users are pre-registered — no new KYC, no friction
 - Community managers activate with one click
 - Revenue sharing model on every transaction
-- Register at **https://0d834e18.mydala.app/**
+- Register at **https://appstorehelloopass.belcashlabs.com/**
 
 ---
 
@@ -148,6 +368,67 @@ The answer depends on who is asking. Here is the full picture.
 ### The Tagline Says It All
 
 > *"The solidarity economy. Click and Trade."*
+
+
+## Events on the Fly — Native Application
+
+Events on the Fly is one of Helloopass OS's native applications — the equivalent of Microsoft Teams in the native app suite. It enables:
+
+- **Real-time event creation** — set up an event community instantly
+- **Ticket sales** — sell tickets in Stablepoints to community members
+- **Kiosk merchant payments** — event vendors accept payments in Stablepoints collected in points
+- **Instant revenue splitting** — at event close, revenue is automatically split between organisers and vendors
+- **Same-day cash out** — merchants redeem their Stablepoints to bank account or cash at end of day
+- **Accelerated approval** — event organiser communities are approved in less than 2 hours
+
+This makes Helloopass the only community OS that can power an entire event economy — from ticket sales to vendor payments to revenue distribution — in a single closed-loop ecosystem.
+
+
+## Why Is Helloopass Considered an OS?
+
+Helloopass is called an **Operating System (OS)** — not just an app or a payment platform — because it does exactly what an OS does on a computer or smartphone: it provides the **foundational infrastructure** on which everything else runs.
+
+### 1. Just Like a Computer OS — It Is the Layer Everything Runs On
+- Windows or macOS does not do your work for you — it provides the environment in which your applications, files, and processes run
+- Helloopass does not run the community for you — it provides the environment in which members, merchants, wallets, payments, BNPL, trade documents, and third-party apps all operate
+- Remove the OS and nothing works. Remove Helloopass and the community economy stops.
+
+### 2. It Manages Multiple Resources Simultaneously
+A computer OS manages CPU, memory, storage, and input/output. Helloopass manages:
+- **Wallets** — creating, activating, and managing every member's wallet
+- **Identity** — KYC verification and universal identity across communities
+- **Payments** — processing, clearing, and settling all transactions via the ACH
+- **Merchants** — licensing, onboarding, and managing merchant accounts
+- **Funds** — managing the community bank pool account and ensuring 1:1 backing
+- **Apps** — the Helloopass Store distributes and manages third-party applications
+- **Communications** — push notifications, SMS, email across the ecosystem
+
+### 3. It Supports Multiple Applications on Top
+Just like Windows runs Word, Excel, and Chrome — Helloopass runs:
+- The Personal App
+- The Merchant App
+- The Community Management Portal
+- The Dedicated Web Portal
+- Third-party certified apps from the Helloopass Store
+- The BNPL engine
+- The ACH clearing engine
+- The Bill of Lading module (June 2026)
+- The Bulk Payment engine
+
+### 4. It Is Multi-Community — Like a Multi-User OS
+Just like a server OS manages multiple users simultaneously, Helloopass manages multiple communities simultaneously — each with its own wallets, merchants, rules, values, and bank pool account — all running on the same infrastructure.
+
+### 5. It Has Its Own ACH — The Clearing Engine of the Financial OS
+The Helloopass Advanced Automated Clearing House operates at three levels — intra-community (instant), inter-community same country (max 24 hours), inter-community cross-border (max 48 hours).
+
+### 6. It Is Open to Third-Party Developers
+Just like Windows or Android allows developers to build applications on top, Helloopass allows developers to build and certify apps via the Helloopass Store. The OS provides the infrastructure — developers bring the applications.
+
+### 7. It Has a Trusted Mode
+Just like an OS has a secure execution environment, Helloopass has the **"Helloopass OS — Trusted"** label — applied only when the system is fully automated, API-driven, and the 1:1 Stablepoints-to-cash ratio is confirmed in real time.
+
+### In One Sentence
+Helloopass is called an OS because it is not an application that does one thing — it is the foundational infrastructure layer on which an entire community economy runs, just as Windows or Android is the layer on which everything else on your device runs.
 
 
 ## The Architecture of Helloopass OS — From Kernel to Store
@@ -214,7 +495,7 @@ This is where Helloopass becomes a true **platform business** — and where its 
 Just as Google Play Store distributes certified Android apps to billions of users without Google building every app, the **Helloopass Store** distributes certified third-party solutions to Helloopass community members worldwide.
 
 **The mechanics:**
-1. Developer registers at **https://0d834e18.mydala.app/**
+1. Developer registers at **https://appstorehelloopass.belcashlabs.com/**
 2. Helloopass certifies through a 5-phase process (Discovery → Contracting → Integration → Pilot → Full Launch)
 3. App listed on the Helloopass Store
 4. All community managers worldwide notified — they decide whether to activate for their community
@@ -235,7 +516,7 @@ Just as Google Play Store distributes certified Android apps to billions of user
   Certified Third-Party Apps — one click, pre-registered users
   Telemedicine | AI Services | Insurance | Logistics
   Savings | Agriculture | Content | And more
-  Register: https://0d834e18.mydala.app/
+  Register: https://appstorehelloopass.belcashlabs.com/
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   LAYER 3 — NATIVE APPLICATIONS (= Word, Excel, PowerPoint)
   Cooperative | Disbursement | Distribution
@@ -598,7 +879,7 @@ Joining a Helloopass community as a merchant gives you access to a built-in, rea
 
 **Helloopass Store Opportunity**
 - If you have a digital solution or app, list it on the Helloopass Store
-- Register at https://0d834e18.mydala.app/
+- Register at https://appstorehelloopass.belcashlabs.com/
 
 > As a Helloopass merchant you get instant payments, zero fraud risk, a ready-made customer base, and the ability to cash out — all within a trusted community economy that grows around you.
 
@@ -629,6 +910,21 @@ Community administrators can manage the float manually or via API. This means ev
 > Helloopass is not just a payment processor — it is a full payment operating system that provides credit lines, sponsored wallets, instant settlement, loyalty programs, and inter-community clearing. All within a single platform, at no monthly cost.
 
 
+## How Long Does It Take for a Community to Be Approved?
+
+Approval time depends on two factors — the type of community and whether all required information has been provided:
+
+### Standard Communities (Cooperatives, NGOs, Religious Groups, Diaspora Networks, Corporations, etc.)
+- **Less than 24 hours** — if all required information is provided at the time of registration
+- Incomplete applications will delay the process — ensure all documents and details are submitted upfront
+
+### Event Organizers
+- **Less than 2 hours** — event organizers benefit from an accelerated approval process given the time-sensitive nature of events
+
+### Key Tip
+The fastest way to get approved is to provide all required information at registration via **https://registerelloopass.belcashlabs.com/**. Incomplete submissions are the main cause of delays.
+
+
 ## How Does a Community Join Helloopass?
 
 ### The Right Way to Understand It — The Visa Analogy
@@ -640,11 +936,11 @@ Helloopass works exactly like Visa:
 
 Just as there is no "Visa Visa card" — there is always **Visa — Standard Bank**, or **Visa — Barclays** — there is no "Helloopass Helloopass". There is always:
 
-> **Helloopass — Fisher Cooperative of Saint Louis**
-> **Helloopass — Women's Savings Union of Abidjan**
-> **Helloopass — Al Nour Islamic Community of Dakar**
+> **Fisher Cooperative of Saint Louis** — powered by Helloopass
+> **Women's Savings Union of Abidjan** — powered by Helloopass
+> **Al Nour Islamic Community of Dakar** — powered by Helloopass
 
-The community's identity is always front and centre. Helloopass is the invisible engine powering it — just like Visa is the invisible rail behind every bank card.
+The service delivered to the community is what carries the brand. Helloopass is the invisible engine powering it — just like Visa is the invisible rail behind every bank card. No one says "I am paying with Visa" — they say "I am paying with my Standard Bank card." No member says "I am using Helloopass" — they say "I am using my Fisher Cooperative wallet."
 
 Just as Visa does not deal directly with individual cardholders, Helloopass does not onboard individual members — **the community does.**
 
@@ -674,7 +970,7 @@ Once the agreement is signed, Helloopass sets up the platform for the community.
 
 **Step 4 — Community Starts Onboarding Its Members**
 Once the platform is live, the community administrator takes over:
-- Approves merchants according to their values and rules
+- Approves **merchants AND members** according to their values and rules — the community administrator controls all access
 - Invites or onboards members
 - Manages the community's own bank account and funds
 - Governs their closed-loop economy independently
@@ -683,9 +979,9 @@ Once the platform is live, the community administrator takes over:
 
 Helloopass provides the OS infrastructure. The community owns and governs everything that runs on top of it — their members, their merchants, their funds, and their values.
 
-**Helloopass is the invisible engine. The community is the brand. The members are the account holders.**
+**Helloopass is the invisible engine. The service delivered to the community is the brand. The members are the account holders.**
 
-Just as no one says "I am paying with Visa" — they say "I am paying with my Standard Bank Visa card" — a Helloopass member says "I am paying with my Fisher Cooperative wallet." Helloopass powers it. The community owns it.
+Just as no one says "I am paying with Visa" — they say "I am paying with my Standard Bank card" — a Helloopass member says "I am using my Fisher Cooperative wallet." Helloopass powers it invisibly. The community service is the brand.
 
 
 ## Why Should My Organization Use Helloopass OS?
@@ -696,8 +992,9 @@ The answer depends on what type of organization you are. Helloopass OS is design
 - Distribute aid, grants, or social transfers directly to beneficiaries with full spend control
 - Ensure funds are used only for their intended purpose (health, food, education)
 - Merchants cash out instantly — no delays, no leakage
-- UN World Food Programme (WFP) already validated the platform for exactly this use case
+- UN World Food Programme (WFP) adopted — the WFP is actively using Helloopass for critical humanitarian aid distribution
 - No banking infrastructure required in the field
+- Choose from **any of the 5 community models** — Cooperative/Union, Disbursement, Distribution, Gift Card, or E-commerce — and on top of that, **Hybrid models** combining multiple models to match the exact needs of your program
 
 ### If You Are a Cooperative or Union
 - Give your members their own closed-loop economy
@@ -731,13 +1028,13 @@ The answer depends on what type of organization you are. Helloopass OS is design
 - Members are automatically pre-registered, notified, and ready to use your service — near-zero acquisition cost
 - Revenue sharing model between Helloopass OS, the Community, and the App owner
 - Terms defined upon certification
-- Register at: **https://0d834e18.mydala.app/**
+- Register at: **https://appstorehelloopass.belcashlabs.com/**
 
 ### Across All Organization Types — The Core Reasons
 
 - **Your own economy** — governed by your own rules and values
 - **Works on basic phones** — no smartphone or bank account required
-- **UN WFP validated** — enterprise-grade security and robustness
+- **UN WFP adopted** — enterprise-grade security and robustness
 - **Free to start** — standard platform at no cost
 - **Live in under 1 hour** — no lengthy onboarding or banking partnerships
 - **5 ready-to-use community models** — pick the one that fits your reality
@@ -785,7 +1082,7 @@ No traditional payment network — not Visa, not Mastercard, not M-Pesa — give
 - Revenue from app usage is shared with the community
 
 ### 6. They Get Institutional Credibility
-- UN World Food Programme (WFP) validated — communities using Helloopass are part of a platform trusted by the world's largest humanitarian organizations
+- UN World Food Programme (WFP) adopted — communities using Helloopass are part of a platform trusted by the world's largest humanitarian organizations
 
 ### 7. They Can Start in Under 1 Hour — For Free
 - No banking partnerships required
@@ -1046,12 +1343,18 @@ Mobile money platforms and Helloopass share some common ground — all work on m
 | **Works on basic phone** | Yes — USSD | Yes — OTP method |
 | **KYC** | Per operator, repeated | Once — universal across all communities |
 | **Business models** | One model | 5 models: Cooperative, Disbursement, Distribution, Gift Card, E-commerce |
-| **UN WFP validated** | No | Yes |
+| **UN WFP adopted** | No | Yes |
 | **Setup for a new community** | N/A — individual wallets only | Under 1 hour |
 
 ### The Strategic Relationship
 
-Helloopass does not compete with M-Pesa, MoMo, or Orange Money — it **uses them as top-up rails**. Members can fund their Helloopass wallets directly via MTN MoMo, Orange Money, M-Pesa, and other mobile money providers.
+Helloopass does not compete with M-Pesa, MoMo, or Orange Money — it works with them in three distinct and complementary ways:
+
+1. **Top-up rails** — members can fund their Helloopass wallets directly via MTN MoMo, Orange Money, M-Pesa, and other mobile money providers
+2. **Cash-out channel for merchants** — merchants can convert their Stablepoints back to real cash directly to their mobile money account
+3. **Community pool account** — mobile money can serve as the pool account where the community holds its funds, providing a fully mobile-native settlement layer for communities that do not have or need a traditional bank account
+
+This makes mobile money not a competitor but a **complementary infrastructure layer** that Helloopass sits above and integrates with seamlessly.
 
 M-Pesa, MoMo, and Orange Money are **pipes** — they move money from A to B for individuals.
 
@@ -1089,7 +1392,7 @@ At pure scale, there is no comparison today — Mastercard is one of the largest
 | **Gift Accounts with spend control** | Not available | Native feature |
 | **App marketplace** | None | Helloopass Store — certified apps, one-click community distribution |
 | **Works on basic phone** | No | Yes — OTP method |
-| **UN WFP validated** | No | Yes |
+| **UN WFP adopted** | No | Yes |
 | **Setup time** | Months — requires banking partnerships | Under 1 hour |
 | **Business model** | Interchange fees from merchants | Revenue sharing between OS, Community, and App owner |
 
@@ -1103,7 +1406,92 @@ They are not in the same race. Mastercard runs on existing infrastructure. Hello
 
 **Mastercard is the payment network of the formal economy. Helloopass is the trading and payment OS of the solidarity economy.**
 
-And with UN WFP validation, 500,000 active users, and a bank-integrated engine already running — Helloopass is not a concept. It is already live where Mastercard cannot go.
+And with UN WFP adoption, 500,000 active users, and a bank-integrated engine already running — Helloopass is not a concept. It is already live where Mastercard cannot go.
+
+
+## What Makes Each Layer Unique?
+
+### Layer 1 — Kernel: The Untouchable Foundation
+The kernel is the only layer that cannot be touched by anyone outside Helloopass. It is the absolute foundation — 6 components, all inseparable. Remove any one and the entire OS stops functioning.
+
+Components 5 and 6 — the Billing & Invoicing Engine and the Bill of Lading & Trade Document Engine — are what separate Helloopass from every other payment platform and make it a genuine trading OS. A payment platform moves money. A trading OS also documents and verifies the commerce that justifies the movement of money.
+
+### Layer 2 — OS Services: Automatic for Every Community
+Every community inherits the OS services layer automatically — no setup, no third-party contracts. Notable services:
+- The **Clearing & Settlement engine** is Helloopass's own Advanced ACH operating at 3 levels — no external clearing house needed
+- The **Multi-Currency FX engine** uses USDT as an optional bridge currency for cross-border settlement
+- The **Bank Integration** layer is currently live in Ethiopia and Kenya
+
+### Layer 3 — Native Applications: Built on the Kernel
+These are Helloopass's own products, built directly on its kernel. Just as no one can build Word without Windows, no third-party developer can replicate these applications without the Stablepoint Engine as their foundation. They are deeply integrated and fully optimised in a way that external apps simply cannot be.
+
+### Layer 4 — The Store: Where the Flywheel Kicks In
+The network effect is precise:
+- Every new community that joins Helloopass makes the Store more valuable — more users for developers to reach
+- Every new certified app makes communities more powerful — more services for members to access
+- The two sides feed each other — exactly like Android and Google Play
+
+A telemedicine startup certified on Helloopass instantly reaches 500,000+ pre-registered users. An AI services cooperative in Nairobi lists on the Store — companies in London, Dubai, and Singapore can hire their builders instantly. An insurance product reaches rural communities who never had access to formal insurance before.
+
+The competitive moat: once this flywheel is spinning, it becomes almost impossible to replicate — because the value is not in the technology alone, but in the pre-existing community network that no competitor can rebuild from scratch.
+
+
+## Is Helloopass a Superior Platform?
+
+This question deserves an honest and balanced answer — not a promotional pitch.
+
+Helloopass is not superior in every dimension. It depends entirely on what you are trying to achieve.
+
+### Where Helloopass is Genuinely Superior
+
+**1. For Underserved and Unbanked Communities**
+No other platform combines community governance, closed-loop Stablepoints, BNPL, values embedding, basic phone support, and a certified app marketplace in one OS. For these communities Helloopass has no real equivalent worldwide.
+
+**2. For Community Ownership of the Economy**
+Visa, Mastercard, and mobile money all extract value from communities. Helloopass returns value to the community — through revenue sharing, community-held funds, and merchant financial data ownership. No traditional network does this.
+
+**3. For the Solidarity Economy**
+Cooperatives, religious organizations, diaspora networks, NGOs — no existing platform was designed for them. Helloopass was built from the ground up for exactly these use cases.
+
+**4. For Trust-Based Trade Finance**
+The BNPL model — built on the 70% African trust-based supplier credit system — is genuinely unique. No global BNPL provider has replicated this model.
+
+**5. For Values-Driven Commerce**
+No payment network lets a community embed its own values into the infrastructure — deciding who joins, what is sold, and how the economy is governed. Helloopass does.
+
+### Where Helloopass is NOT Superior
+
+**1. Scale**
+Visa has 3+ billion cardholders. Mastercard processes 100+ billion transactions per year. M-Pesa dominates East Africa. Helloopass has 500,000 active users as of March 2026 — impressive for its stage, but not yet comparable.
+
+**2. Global Acceptance**
+Visa and Mastercard are accepted in 210+ countries by 100+ million merchants. Helloopass operates within closed community ecosystems — not yet a global open acceptance network.
+
+**3. Brand Recognition**
+Visa and Mastercard are among the most recognized brands in the world. Helloopass is by design invisible behind the community's own service brand.
+
+**4. Regulatory Coverage**
+Visa and Mastercard operate under decades of established regulatory frameworks worldwide. Helloopass is newer and growing its regulatory footprint country by country.
+
+**5. Technical Maturity at Massive Scale**
+Processing 100 billion transactions per year requires infrastructure that takes decades to build. Helloopass is proven at 2 million+ transactions — a strong foundation, but not yet at that scale.
+
+### What Helloopass is NOT Trying to Be
+
+- **Not trying to be Visa or Mastercard** — Helloopass is not an open global acceptance network
+- **Not trying to be a Mobile Money operator** — Helloopass is not M-Pesa, MoMo, or Orange Money. It does not operate mobile wallets for individuals. It uses mobile money as a complementary infrastructure layer — for top-ups, merchant cash-outs, and community pool accounts — but it is fundamentally a different product serving a different purpose
+- **Not trying to replace banks** — Helloopass integrates with banks and mobile money providers as partners, not competitors
+
+### The Honest Conclusion
+
+Helloopass is playing a completely different game:
+- Visa and Mastercard serve the **formal economy** — the 3 billion people already banked
+- Mobile money serves **individual digital wallets** — person to person transfers
+- Helloopass serves the **solidarity economy** — communities, cooperatives, and informal traders that the formal system was never designed to reach
+
+In that space — the solidarity economy, the unbanked, the community-owned economy — Helloopass is genuinely superior because it is the only platform purpose-built for it.
+
+The real measure of Helloopass's superiority is not transactions per second — it is **impact per community.**
 
 
 ## What Differentiates Helloopass from a Traditional Acceptance Network like Visa or Mastercard?
@@ -1131,7 +1519,7 @@ Both Helloopass and Visa/Mastercard process transactions between buyers and merc
 | **Setup time** | Months — requires banking partnerships | 2–4 hours |
 | **Works on basic phone** | No | Yes — OTP method |
 | **Solidarity economy** | No — pure commercial network | Yes — designed for cooperatives, NGOs, diaspora, rural communities |
-| **UN WFP validated** | No | Yes |
+| **UN WFP adopted** | No | Yes |
 
 ### The Three Fundamental Differences
 
@@ -1152,7 +1540,7 @@ Visa and Mastercard are global commercial rails that move money between banks �
 
 If you are wondering how Helloopass compares to Visa, Mastercard, American Express, or any traditional credit or debit card network — the answer is the same.
 
-Helloopass and traditional card networks share some common ground — both are infrastructure layers that process transactions across multiple countries, and both operate as co-branded ecosystems (Visa/Mastercard + Bank / Helloopass + Community). Neither holds your money directly.
+Helloopass and traditional card networks share some common ground — both are infrastructure layers that process transactions across multiple countries, and both operate as co-branded ecosystems (Visa/Mastercard + Bank / Helloopass + Community Service). Neither holds your money directly.
 
 However Helloopass goes significantly further than any traditional payment processor or card network:
 
@@ -1450,6 +1838,7 @@ Joining a Helloopass community gives a merchant something traditional payment sy
 ### 11. Free to Join — Live in Under 1 Hour
 - No setup fees for the standard platform
 - No banking partnerships required
+- Merchant registration works exactly like regular member registration — no need to be a member first
 - Start accepting payments immediately
 
 ### 12. Build Your Financial Data Profile — Access Traditional Finance
@@ -1650,6 +2039,15 @@ There are two ways to join an open community on Helloopass:
 4. Tap **Join** — you are in instantly, no approval needed
 5. A dedicated wallet is automatically created for you
 
+### Option 3 — Invited by the Community Management
+The community administrator can proactively register members on their behalf. In this case:
+- The member receives an **invitation via email or SMS**
+- The member reviews the invitation and **chooses to accept or decline**
+- If they accept, their account and wallet are automatically activated
+- No further action needed beyond accepting the invitation
+
+This allows communities to onboard their existing membership base quickly and efficiently — rather than waiting for members to self-register.
+
 ### Option 2 — Via the Community's Dedicated Web Portal
 1. Go to the community's own website (e.g. shop.yourcommunity.com) if they have a Dedicated Portal
 2. Register directly on their portal
@@ -1661,6 +2059,18 @@ Before joining any community you will need to:
 2. Create your **4–6 digit PIN**
 
 Once KYC is done, joining any additional open community is instant — no new KYC or PIN required. Your dedicated wallet is created automatically every time you join a new community.
+
+
+## Who Are the Members of a Helloopass Community?
+
+In a Helloopass community, **everyone is a member**. There are no separate categories — merchants and regular users alike are all members of the community. The difference lies in their role and license:
+
+- **Regular members** — join the community, acquire Stablepoints, pay merchants, send points to other members, and use BNPL as buyers. All transactions are free for regular members.
+- **Merchant members** — regular members who have been granted a **merchant license** by the community administrator. This license gives them the additional ability to accept payments, offer BNPL, cash out Stablepoints to real money, and advertise their services to the community.
+
+Both are onboarded and approved by the community administrator. Both use the same identity (phone number and KYC). The merchant license is simply an additional permission layer on top of regular membership.
+
+**In short: a merchant is a member with a license. A regular user is a member without one.**
 
 
 ## Can I Join Any Community as an End User?
@@ -1731,6 +2141,177 @@ Tap **"Top Up"** on the dashboard to get started.
 
 ---
 
+## Helloopass OS — Trusted Label
+
+The **"Helloopass OS — Trusted"** label is a quality and integrity certification that Helloopass applies to a community's platform — but only under very specific conditions.
+
+### What "Helloopass OS — Trusted" Means
+When a community earns the Trusted label, it means:
+- The system is **fully automated** — no manual cash handling at the accounting level
+- All top-ups, payments, cash-outs, and settlements are generated and processed **via APIs**
+- The Helloopass platform can **automatically confirm and verify** at any point in time that the total amount of Stablepoints in circulation is exactly and fully reflected by the real cash held in the community's bank account
+- There is **zero discrepancy** between the digital economy and the real cash backing it — 1:1 confirmed in real time
+
+### What It Does NOT Apply To
+The Trusted label does **not** apply to communities that:
+- Still handle cash manually at the accounting level
+- Have not yet fully integrated via APIs
+- Cannot provide real-time automated confirmation of the 1:1 Stablepoints-to-cash ratio
+
+### The Path to Trusted
+A community typically starts in manual or semi-automated mode — where Helloopass acts as a bookkeeping instrument — and progressively automates:
+
+1. **Manual mode** — cooperative manages cash manually, Helloopass records transactions. No Trusted label.
+2. **Semi-automated** — some integrations via API (e.g. mobile money top-ups) but cash still involved at some level. No Trusted label.
+3. **Fully automated** — all transactions via API, bank account confirmed in real time, zero manual cash at accounting level. **Trusted label granted.**
+
+### Exception — Governments and NGOs with a Proven Public Track Record
+Governments and NGOs that have a **proven and verifiable public track record** are considered **Trusted at the initial stage** — they do not need to go through the manual or semi-automated phases to earn the label.
+
+This exception recognises that these institutions already operate under public accountability, regulatory oversight, and established financial governance frameworks. Their existing track record serves as the equivalent of full automation verification.
+
+This is why the **UN World Food Programme (WFP)** — which has adopted Helloopass for humanitarian aid distribution — operates under the Trusted label from day one.
+
+### Why It Matters
+The Trusted label is a powerful trust signal for:
+- **Members** — confidence that every Stablepoint they hold is backed by real cash
+- **Merchants** — assurance that cash-outs will always be honoured
+- **Partners and regulators** — verifiable proof of a fully transparent, auditable, and compliant financial ecosystem
+- **Traditional finance** — a community with the Trusted label has a verifiable, real-time financial track record that can support access to credit, insurance, and investment
+
+
+## How Does a Cooperative Manually Manage Its Community Funds?
+
+When a cooperative starts on Helloopass and chooses to manage its pool account manually, Helloopass acts as a **bookkeeping instrument** — recording all transactions, wallet balances, and fund movements while the cooperative manages the real cash flow itself.
+
+### The Pool Account
+The cooperative opens a dedicated bank account — or uses its existing association bank account — that serves as the **community pool account**. This account holds the real cash backing all Stablepoints in circulation.
+
+### Top-Ups — Members Adding Money
+1. A member brings cash to the cooperative office or a designated community agent
+2. The cooperative administrator manually records the deposit
+3. The administrator credits the equivalent Stablepoints to the member's wallet via the community management backend
+4. The cash is deposited into the cooperative's pool bank account
+
+### Payments — Members Buying from Merchants
+All payments between members happen instantly via the Helloopass ACH Level 1 — no manual intervention needed. Stablepoints move between wallets automatically.
+
+### Merchant Cash-Out — Converting Points to Real Cash
+1. Merchant requests a cash-out via the on-demand option
+2. Community administrator reviews and approves the request
+3. Administrator manually transfers the equivalent amount from the pool bank account to the merchant via:
+   - Cash at the cooperative office
+   - Mobile money transfer
+   - Bank transfer
+4. Administrator debits the equivalent Stablepoints from the merchant's wallet in the backend
+
+### Daily Reconciliation
+At the end of each day the administrator:
+- Reviews all transactions via the community management dashboard
+- Reconciles the pool bank account balance against total Stablepoints in circulation
+- Processes any pending cash-out requests
+- Ensures the pool account always equals total Stablepoints in circulation — **1:1 at all times**
+
+### Helloopass as a Bookkeeping Instrument
+In manual management mode, **Helloopass acts as a bookkeeping instrument** for the cooperative. Every transaction — top-up, payment, transfer, cash-out — is automatically recorded, timestamped, and traceable in the community management dashboard. This gives the cooperative:
+- A complete and auditable ledger of all financial activity
+- Real-time visibility of every member's wallet balance
+- A full transaction history for every member and merchant
+- Verifiable records for tax reporting, audits, and regulatory compliance
+- The financial data foundation to access traditional finance in the future
+
+No manual bookkeeping spreadsheets needed — Helloopass keeps the books automatically.
+
+### When You Are Ready to Automate
+As the cooperative grows, Helloopass can progressively automate:
+- **Mobile money integration** — members top up directly, merchants cash out directly
+- **Bank API integration** — automatic settlement via bank transfer
+- **Automated daily clearing** — no manual intervention needed
+
+The cooperative can start manual and migrate to full automation at its own pace — no disruption to members or merchants.
+
+
+## Bulk Payments
+
+Helloopass supports bulk payments — the ability to send payments to multiple members or merchants simultaneously.
+
+### Current Availability
+Bulk payments are currently available at the **community management level only**. Community administrators can initiate bulk payments on behalf of the community — for example:
+- Distributing aid or grants to multiple beneficiaries at once
+- Paying multiple gig workers or service providers simultaneously
+- Topping up multiple member wallets in a single operation
+
+### Coming July 2026 — Bulk Payments for Merchants
+In **July 2026**, the bulk payment option will also be made available to **merchants** — allowing them to initiate bulk payments directly from the Merchant App. This will be particularly useful for:
+- Paying multiple suppliers at once
+- Distributing commissions to sales agents
+- Settling multiple invoices in a single transaction
+
+
+## How Does a Payment Work on Helloopass?
+
+### The Key Principle — All In-Store Payments Are Merchant-Initiated
+Unlike most payment apps where the buyer initiates the payment, **all in-store payments on Helloopass are initiated by the merchant**. The buyer simply confirms. This makes the payment experience faster, simpler, and more secure for everyone.
+
+### The In-Store Payment Flow
+
+**Step 1 — Merchant Identifies the Buyer**
+The merchant identifies the buyer using one of three methods:
+- **Scan the buyer's QR code** — using the Merchant App or a regular POS machine
+- **Enter the buyer's phone number** — manually in the Merchant App
+- **Tap the buyer's NFC card** — on their phone or a regular NFC-enabled POS machine
+
+**Step 2 — Merchant Enters Transaction Details**
+The merchant fills in:
+- What has been purchased (description of goods or services)
+- The amount in Stablepoints
+- Any applicable BNPL terms (if offered)
+
+**Step 3 — Merchant Submits the Payment Request**
+The merchant submits — the payment request is instantly sent to the buyer.
+
+**Step 4 — Buyer Confirms**
+The buyer receives a **push notification** on their Helloopass Personal App showing:
+- Merchant name
+- Items purchased
+- Amount
+
+The buyer confirms using:
+- **PIN** — 4–6 digit code
+- **Biometrics** — fingerprint or face ID (if supported by their device)
+
+> This step applies only if the buyer has a smartphone.
+
+**Step 5 — OTP for Basic Phone Users**
+If the buyer does not have a smartphone:
+- The buyer receives an **SMS with an OTP code**, the merchant name, and the amount
+- The buyer reads the OTP to the merchant
+- The merchant enters it in the Merchant App
+- Payment is instantly confirmed
+
+> OTP codes are valid for **2 minutes** only.
+
+**Step 6 — Payment Complete**
+- Stablepoints are instantly debited from the buyer's community wallet
+- Stablepoints are instantly credited to the merchant's community wallet
+- Both parties receive a **digital receipt**
+- The transaction is recorded on the community ledger
+
+### What Happens Behind the Scenes
+1. Stablepoints move between community wallets instantly — no external banking needed for the transaction itself
+2. The community bank pool account balance remains unchanged — only internal wallet balances move
+3. At cash out, the merchant's Stablepoints are converted to real cash from the pool account — via mobile money, bank transfer, or cash — regulated by the community administrator
+
+### Payment Methods Summary
+
+| Method | How Merchant Identifies Buyer | Buyer Confirmation |
+|---|---|---|
+| QR Code | Scan buyer's QR code | PIN or Biometrics (push notification) |
+| Phone Number | Enter buyer's phone number | PIN or Biometrics (push notification) |
+| NFC Card | Tap buyer's NFC card on phone or POS | PIN or Biometrics (push notification) |
+| OTP (basic phone) | Enter buyer's phone number | SMS OTP read to merchant |
+
+
 ## How to Pay a Merchant
 
 There are 5 ways to pay a merchant:
@@ -1744,6 +2325,75 @@ There are 5 ways to pay a merchant:
 All app payments require your PIN. You receive a digital receipt after every payment.
 
 ---
+
+## How Do Regular Members Send Points to Each Other?
+
+Peer-to-peer transfers between members of the same community are simple, instant, and free — no fees for either party.
+
+### The Sender-Initiated Flow
+
+**Step 1 — Identify the Recipient**
+The sender identifies the recipient using one of two methods:
+- **Enter the recipient's phone number** manually
+- **Scan the recipient's QR code** using the Helloopass Personal App
+
+**Step 2 — Enter the Amount**
+Enter the amount in Stablepoints to send.
+
+**Step 3 — Confirm**
+Confirm the transfer using:
+- **PIN** — 4–6 digit code
+- **Biometrics** — fingerprint or face ID (if supported by the device)
+
+**Step 4 — Transfer Complete**
+Stablepoints are instantly debited from the sender's wallet and credited to the recipient's wallet. Both parties receive a notification.
+
+### The Recipient-Initiated Flow — "Send Me Money" Request
+Recipients can also reverse the process by sending a **"Send Me Money" request** to another member:
+
+1. Recipient sends a payment request specifying the amount
+2. The sender receives a **push notification** with the request details
+3. The sender reviews and confirms using their **PIN or Biometrics**
+4. Transfer is instantly complete
+
+### Key Rules
+- By default, both sender and recipient must be **members of the same community**
+- All peer-to-peer transfers are **completely free** — no fees for either party
+
+### Interconnected Communities — Breaking the Boundary
+When communities are **interconnected**, members are no longer limited to their own community. They can:
+- **Send points** to regular members of other interconnected communities
+- **Buy goods and services** from merchants of other interconnected communities
+
+This is the foundation of the **inter-community trading network** — allowing the solidarity economy to scale beyond a single community into a wider ecosystem of interconnected communities trading with each other.
+
+> Cross-community transfers for non-interconnected communities are coming at the **end of June 2026**.
+
+### Helloopass Advanced Automated Clearing House (ACH)
+
+Helloopass operates its own **Advanced Automated Clearing House (ACH)** that works at three levels:
+
+| ACH Level | Scope | Settlement Speed |
+|---|---|---|
+| **Level 1** | Inside a single community | **Instant** — all transactions settle immediately |
+| **Level 2** | Between two communities in the same country | Merchant cash-out within maximum **24 hours** |
+| **Level 3** | Between communities in different countries | Merchant cash-out within maximum **48 hours** |
+
+**Level 1 — Intra-Community (Instant)**
+All transactions between members of the same community settle instantly. Stablepoints move between wallets in real time with no clearing delay. This covers all payments, peer-to-peer transfers, BNPL settlements, and top-ups within the community.
+
+**Level 2 — Inter-Community, Same Country (Max 24 hours)**
+When two communities within the same country are interconnected, transactions between their members go through the Level 2 clearing process. Merchants who receive payments from members of another community in the same country can cash out within a maximum of 24 hours.
+
+**Level 3 — Inter-Community, Cross-Border (Max 48 hours)**
+When two communities are in different countries, transactions go through the Level 3 clearing process — handling currency conversion, cross-border compliance, and international settlement. Merchants can cash out within a maximum of 48 hours.
+
+> The delay at Level 2 and Level 3 applies specifically to **merchant cash-out** — the conversion of Stablepoints to real cash. Peer-to-peer Stablepoints transfers between members of interconnected communities remain instant at all levels.
+
+
+
+
+
 
 ## How to Send Points
 
@@ -2024,7 +2674,7 @@ Members go to shop.yourcommunity.com — they see your logo, your colors, your b
 
 The **Helloopass Demo** is a free, safe practice environment where anyone can test everything before using real money. Think of it like a simulation — you get free demo points to practice with, and an AI assistant guides you step by step.
 
-**Demo website: https://hpassfinance.vercel.app/**
+**Demo website: https://hpassdemo.belcashlabs.com/**
 
 ### What You Can Test in the Demo
 
@@ -2039,7 +2689,7 @@ The **Helloopass Demo** is a free, safe practice environment where anyone can te
 ### How to Get Started — 3 Simple Steps
 
 **Step 1: Register on the Demo Portal**
-Go to **https://hpassfinance.vercel.app/**, choose your country, and fill in your name, phone number, and email address. You can use your real phone number — the demo will send SMS for testing.
+Go to **https://hpassdemo.belcashlabs.com/**, choose your country, and fill in your name, phone number, and email address. You can use your real phone number — the demo will send SMS for testing.
 
 **Step 2: Download the Demo Apps**
 After registration, download two apps from the App Store or Google Play:
@@ -2096,11 +2746,11 @@ The **Helloopass Store** is the official distribution channel for third-party so
 
 ### The Certification Journey — 5 Phases
 
-1. **Discovery & Eligibility** *(Week 1)* — Helloopass evaluates your business model, target communities, and regulatory status. A preliminary term sheet is issued.
-2. **Contracting** *(Weeks 2–3)* — Signature of the Hpass OS Certification Agreement and the Helloopass Store Participation Agreement.
-3. **Technical Integration & Certification** *(Weeks 4–8)* — Sandbox integration, SSO setup, consent management, security audit, and PCI DSS validation. Passing grants the **"Certified by Helloopass OS"** badge.
-4. **Soft Launch & Community Pilot** *(Weeks 9–10)* — Limited rollout to one community or country for real-world validation and iteration.
-5. **Full Store Launch** *(Week 11 onwards)* — Wider rollout, co-marketing activation, and ongoing performance reviews.
+1. **Discovery & Eligibility**  — Helloopass evaluates your business model, target communities, and regulatory status. A preliminary term sheet is issued.
+2. **Contracting**  — Signature of the Hpass OS Certification Agreement and the Helloopass Store Participation Agreement.
+3. **Technical Integration & Certification**  — Sandbox integration, SSO setup, consent management, security audit, and PCI DSS validation. Passing grants the **"Certified by Helloopass OS"** badge.
+4. **Soft Launch & Community Pilot**  — Limited rollout to one community or country for real-world validation and iteration.
+5. **Full Store Launch**  — Wider rollout, co-marketing activation, and ongoing performance reviews.
 
 ### What Happens After Certification?
 
@@ -2117,7 +2767,7 @@ Once certified and listed in the Helloopass Store:
 
 The only way to get your app listed on the Helloopass Store is to register via:
 
-> **https://0d834e18.mydala.app/**
+> **https://appstorehelloopass.belcashlabs.com/**
 
 ---
 
@@ -3564,6 +4214,61 @@ Merchants operating within a Helloopass community are responsible for:
 - Merchant transaction data is available to merchants themselves and can support accurate tax reporting
 
 
+## How Can I Register on Helloopass?
+
+The registration process depends on who you are. Before anything else, identify which profile best describes you:
+
+- 🏛️ **Community leader / Organization / Diaspora leader** — a cooperative, NGO, religious group, corporation, diaspora network, or any recognized community
+- 👤 **Regular user / Member** — want to join a community as a buyer or member
+- 🛒 **Merchant** — want to sell goods or services within a community
+- 💻 **Developer / Platform owner** — want to list an app on the Helloopass Store
+- 🌍 **NGO / Government** — want to distribute aid or funds to beneficiaries
+
+### If You Are a Community (Organization, Cooperative, NGO, Corporation, Diaspora Network, etc.)
+Register your community via the official Helloopass community registration portal:
+
+> **https://registerelloopass.belcashlabs.com/**
+
+Once your application is reviewed and the agreement is signed, your platform will be set up within **2–4 hours** and you can start onboarding your members and merchants.
+
+### If You Are an End User / Member
+You have two options:
+
+1. **Via the community's dedicated web portal** — if the community has a Dedicated Portal, go to their website (e.g. shop.yourcommunity.com) and register directly there
+   - **Open community** — your account and wallet are created automatically
+   - **Request-based or Invitation-only** — your account will only be activated after the community administrator has approved your registration
+2. **Via the Helloopass Personal App** — download the app from the **App Store** (iPhone) or **Google Play** (Android), complete KYC verification, create your PIN, and join a community
+
+### If You Are a Merchant
+Merchant registration works exactly like regular member registration — you do not need to already be a member first. Two ways to register:
+- Download the **Helloopass Merchant App** from the **App Store** or **Google Play** and register directly
+- Or register via the **community's dedicated web portal** (each community can have its own dedicated portal)
+  - Open community → your merchant account is activated automatically
+  - Request-based or Invitation-only → activated after community administrator approval
+
+### If You Are a Developer or Platform Owner
+Register to get your app certified and listed on the Helloopass Store via:
+
+> **https://appstorehelloopass.belcashlabs.com/**
+
+### If You Want to Try the Demo First
+Register on the Helloopass Demo portal at:
+
+> **https://hpassdemo.belcashlabs.com/**
+
+No real money involved — free demo points to practice with before going live.
+
+### Summary
+
+| Who You Are | How to Register |
+|---|---|
+| Community / Organization | https://registerelloopass.belcashlabs.com/ |
+| End User / Member | Community's dedicated web portal or Helloopass Personal App |
+| Merchant | Helloopass Merchant App (App Store / Google Play) or community dedicated web portal — no prior membership needed |
+| Developer / Platform Owner | https://appstorehelloopass.belcashlabs.com/ |
+| Demo user | https://hpassdemo.belcashlabs.com/ |
+
+
 ## Contact & Support
 
 - **Email:** help@helloopass.com
@@ -3579,4 +4284,4 @@ When contacting support, please provide:
 
 ---
 
-*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v2.5)*
+*Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.(v3.1)*
