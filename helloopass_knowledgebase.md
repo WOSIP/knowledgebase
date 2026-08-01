@@ -499,7 +499,7 @@ Joining a Helloopass community gives an end user access to a secure, simple, and
 
 **Buy & Trade Within the Community**
 - Pay any licensed merchant instantly
-- Send credit (Stablepoints) to other members in seconds
+- Send points to other members in seconds
 - QR code, NFC, or OTP payment
 - Digital receipt after every transaction
 
@@ -542,14 +542,6 @@ Joining Helloopass gives a cooperative a complete, ready-to-use digital trading 
 - Every Stablepoint is backed 1:1 by real cash
 - Full transparency and control over the community's economy
 
-**Built-In Revenue for the Cooperative**
-- The cooperative earns a fee/revenue share on member purchases — always deducted on the merchant/supplier side, never the buyer. The rate depends on the purchase context:
-  - **In-store purchases** (member buys from a local merchant — Helloopass acts like a traditional acceptance network, Visa-style): average **1.5–2.5%** per purchase, shared with Helloopass OS
-  - **Standard online products** (e.g. airtime, games, movies): gross profit of **3–10%**, shared with Helloopass OS
-  - **Platform/apps from the Helloopass Digital Store** (e.g. logistics, delivery apps): **5–25%**, shared with Helloopass OS
-  - **BNPL facility**: **5%**, shared with Helloopass OS
-- This turns everyday member spending into a recurring, multi-channel revenue stream for the cooperative
-
 **Full Administration Control**
 - Dedicated admin portal to manage members, merchants, and transactions
 - Onboard and license merchants within the cooperative
@@ -566,70 +558,49 @@ Joining Helloopass gives a cooperative a complete, ready-to-use digital trading 
 - Members are pre-registered automatically — no extra KYC
 - Revenue sharing when members use paid apps
 
-**Hpass RTSM — Real Time Share Management (Free)**
-- Cooperatives get access to Hpass RTSM, an advanced share management platform, at no additional cost
-- Provides real-time visibility and management of member shares within the cooperative
-
 **Inter-Community Trading (Coming November 2026)**
 - Trade with other Helloopass communities
 - Full clearing and settlement handled by Helloopass OS — no external infrastructure needed
 
-> Helloopass turns a cooperative into a fully digital, self-governing, self-sustaining trading and payment ecosystem.
+> Helloopass turns a cooperative into a fully digital, self-governing, self-sustaining trading and payment ecosystem, at zero monthly cost.
 
 ---
 
-## Benefits by Role: Buyers, Sellers, and IT/Platform Developers
+## Benefits for a Merchant
 
-Helloopass benefits break down into 3 role-based categories. Note that Merchants are not only Sellers — they are also Buyers within the community, and get every buyer benefit in addition to their seller-specific advantages.
-
-### Buyers (End Users AND Merchants acting as buyers)
-Anyone purchasing within a community — whether a regular End User or a Merchant buying from another merchant/supplier — gets the same core buyer benefits:
-- **Payment facilities** — BNPL, sponsored/gift wallets, credit lines, and instant settlement depending on the community model
-- **Best deals** — access to community-specific pricing, loyalty programs, and promotions
-- **A full-fledged, secured digital trading environment** — PIN-protected transactions, Stablepoints backed 1:1 by real cash, fraud protection built into the OS, and a digital receipt after every transaction
-- **No fees applied** — buyers are never charged a transaction fee, regardless of profile
-- **Rewarded on every purchase** — beyond paying no fees, buyers also receive a purchase bonus/reward, automatically deposited as Stablepoints into a dedicated **Bonus Wallet**. Bonus Wallet credit has a more limited scope than regular credit: it can be spent only at a select number of shops, and on online products and services — not the full merchant network
-
-### Sellers (Merchants)
-Joining a Helloopass community as a merchant gives you access to a **dedicated, ready-made market** — this is the main benefit of being a seller on Helloopass — plus a complete digital payment infrastructure.
-
-**A Dedicated Market**
-- Every member of the community is a potential customer from day one — no marketing needed
-- As inter-community trading launches (November 2026), your addressable market expands automatically
+Joining a Helloopass community as a merchant gives you access to a built-in, ready-made customer base with a complete digital payment infrastructure.
 
 **Get Paid Instantly**
-- Receive Stablepoints from any community member instantly — no cash handling risk
-- Sales proceeds are deposited into your dedicated **Earning Wallet** (separate from your Main and Bonus Wallets)
+- Receive Stablepoints from any community member instantly
+- No cash handling risks
 - Accept payments via QR code, NFC, phone number, or OTP
 - Digital receipt generated automatically after every transaction
 
-**Offer a Store Card / BNPL to Your Own Customers — and Get Paid on the Spot**
-- As a merchant, you can offer your own store card / BNPL facility to your customers (who are also cooperative/union members)
-- The cooperative/union pays you on the spot, at a discounted rate — the fee is **5%**, with a maximum repayment term of **15 days**
-- Important: this is a *merchant-issued* facility, so you, the merchant, are accountable for the beneficiary's repayment. If a customer fails to pay the cooperative back, you are the one who collateralizes that debt — not the cooperative or Helloopass OS
-- Note: this is different from the **cooperative-issued store BNPL card** (see "Payment Facilities Provided by Helloopass"), which members can use at *any* shop in the network — in that case, no repayment risk applies to any individual merchant, since the cooperative itself extends and guarantees that credit
+**Access to a Ready-Made Customer Base**
+- Every member of the community is a potential customer
+- No marketing needed — you are visible to all members from day one
+- As inter-community trading launches (November 2026), your customer base expands automatically
 
 **Cash Out Your Earnings**
-- As a licensed merchant, you are one of the only member types allowed to convert Stablepoints back to real cash
-- Cash-out is only available from your **Earning Wallet** — your Main and Bonus Wallets are not cash-out eligible
-- Cash out anytime via your preferred method (mobile money, bank account, or cash) — no waiting, no lengthy bank processes
-- Prefer to spend it instead? Transfer credit from your Earning Wallet to your Main Wallet and use it to purchase within the community, just like any other buyer
+- As a licensed merchant you are one of the only members allowed to convert Stablepoints back to real cash
+- Cash out anytime via your preferred method
+- No waiting, no lengthy bank processes
 
 **Zero Fraud Risk**
 - Every payment is PIN-protected by the buyer
-- No chargebacks like with credit cards, no fake notes like with cash
+- No chargebacks like with credit cards
+- No fake notes like with cash
 - Built-in fraud detection on every transaction
 
 **Multiple Ways to Accept Payment**
 - QR code, NFC card, OTP, or phone number entry
 - Works with customers on basic phones via OTP
 
-> As a Helloopass merchant you get a dedicated market, instant payments, zero fraud risk, and the ability to cash out — plus the option to offer a store card / BNPL facility to your customers (with the cooperative paying you on the spot, at a discount) as long as you're willing to collateralize those customers yourself. And as a buyer yourself, you get every benefit a regular end user gets too.
+**Helloopass Store Opportunity**
+- If you have a digital solution or app, list it on the Helloopass Store
+- Register at https://0d834e18.mydala.app/
 
-### IT / Platform Developers
-- Build and list your app, service, or platform on the Helloopass Store — reaching every community's pre-registered user base with no extra KYC required
-- Revenue sharing applies based on purchase context: standard online products earn a gross profit of 3–10% (shared with Helloopass OS), and platform/apps from the Digital Store (logistics, delivery, etc.) earn 5–25% (shared with Helloopass OS)
-- Register to get your app certified and listed at: https://appstorehelloopass.belcashlabs.com/
+> As a Helloopass merchant you get instant payments, zero fraud risk, a ready-made customer base, and the ability to cash out — all within a trusted community economy that grows around you.
 
 ---
 
@@ -639,12 +610,6 @@ Helloopass goes far beyond simple payments. Here is what payment facilities mean
 
 **Buy Now, Pay Later (Credit Line)**
 In the Disbursement model (Model 2), beneficiaries receive a credit line from an NGO, government, or institution. They can purchase goods and services from merchants immediately. The sponsor covers the float — the merchant gets paid instantly.
-
-**Merchant-Issued Store Card BNPL**
-A specific merchant can offer their own store card / BNPL facility to their customers (who are cooperative/union members). The cooperative pays the merchant on the spot at a discount (5% fee, maximum 15-day repayment term). The merchant is accountable for the customer's repayment — if the customer defaults, the merchant collateralizes that debt, not the cooperative or Helloopass OS.
-
-**Cooperative-Issued Store BNPL Card**
-The cooperative itself can also issue a store BNPL card directly to its members. Unlike the merchant-issued version, this card can be used at **any shop within the network** — it isn't tied to a single merchant. Because the cooperative itself extends and guarantees this credit, **no repayment risk applies to any individual merchant** in this case; each merchant is simply paid normally at the point of sale, as with any other purchase.
 
 **Sponsored Wallets**
 In the Gift Card model (Model 4), diaspora or corporate sponsors pre-fund wallets for beneficiaries. Spending can be restricted to approved merchants (e.g. pharmacies, schools, grocery stores only). The merchant receives payment the moment the beneficiary spends.
@@ -661,7 +626,7 @@ When communities trade together, Helloopass OS handles the full clearing and set
 **Float Management as a Payment Facility**
 Community administrators can manage the float manually or via API. This means even communities without sophisticated banking infrastructure can offer payment facilities to their members.
 
-> Helloopass is not just a payment processor — it is a full payment operating system that provides credit lines, sponsored wallets, instant settlement, loyalty programs, and inter-community clearing. All within a single platform.
+> Helloopass is not just a payment processor — it is a full payment operating system that provides credit lines, sponsored wallets, instant settlement, loyalty programs, and inter-community clearing. All within a single platform, at no monthly cost.
 
 
 ## How Does a Community Join Helloopass?
@@ -721,42 +686,6 @@ Helloopass provides the OS infrastructure. The community owns and governs everyt
 **Helloopass is the invisible engine. The community is the brand. The members are the account holders.**
 
 Just as no one says "I am paying with Visa" — they say "I am paying with my Standard Bank Visa card" — a Helloopass member says "I am paying with my Fisher Cooperative wallet." Helloopass powers it. The community owns it.
-
-
-## Platform Packages & Pricing
-
-Helloopass offers 3 packages for communities/organizations. Setup, annual, and transaction fees below are what the **organization pays Helloopass OS** to run the platform — this is separate from the merchant-side revenue-share fee the community itself earns per purchase (see "Fees & Community Revenue").
-
-### Free
-Perfect for small communities just getting started.
-- **Members:** up to 500
-- **Setup Fee:** $0
-- **Annual Fee:** $0
-- **Transaction Fee:** 0%
-- **Included:** digital wallets for all members, merchant earning accounts, peer-to-peer lending with platform de-risking, community-only spending rule, points backed by real cash, works on any phone, basic email support
-- **Best for:** small cooperatives, local associations, or pilot communities testing the platform
-- No card required to get started
-
-### Standard (Most Popular)
-For growing communities ready to scale.
-- **Members:** unlimited
-- **Setup Fee:** $5,000
-- **Annual Fee:** $5,000
-- **Transaction Fee:** 1%
-- **Included:** everything in Free, unlimited member onboarding, up to 100,000 monthly transactions, priority support via email & phone, dedicated community success manager, monthly transaction reports, inter-community trading (coming soon)
-- **Best for:** established cooperatives and unions with growing member bases and active trading volumes
-- Billed annually
-
-### Platinum (Enterprise)
-A fully tailored solution built around your community.
-- **Members:** unlimited
-- **Transactions:** unlimited
-- **Setup Fee, Annual Fee, Transaction Fee:** negotiated — pricing is set after understanding the community's scale and needs
-- **Included:** everything in Standard, unlimited transactions, 24/7 premium support, custom feature development, dedicated technical account manager, custom reporting & analytics, early access to new features, white-label options, custom integration support
-- **Best for:** large unions, federations of cooperatives, or national-level associations with high transaction volumes
-- Custom pricing, tailored to scale — request a quote
-
-Register and compare packages at: **https://register.hpass.belcashlabs.com**
 
 
 ## Why Should My Organization Use Helloopass OS?
@@ -962,7 +891,7 @@ No country, no platform, no company has assembled all these pieces into one comm
 - **BNPL (Buy Now Pay Later)** — credit lines for beneficiaries within the community (Disbursement model)
 - **Gift Accounts** — sponsor-funded restricted wallets with spend controls (Gift Card model)
 - **Trade documents** — transaction records, receipts, and settlement statements for every trade within the community
-- **Inter-community clearing** — coming end of November 2026, enabling points and payments to flow between communities
+- **Inter-community clearing** — coming November 2026, enabling points and payments to flow between communities
 - **Certified app marketplace** — the Helloopass Store, where third-party developers distribute certified apps directly to community members with one-click activation
 - **Community operating system layer** — Helloopass sits above all existing payment rails (M-Pesa, Pix, SEPA, mobile money), connecting them into a single OS that communities control
 
@@ -1329,7 +1258,7 @@ Joining a Helloopass community gives an end user access to a secure, simple, and
 
 **Buy & Trade Within the Community**
 - Pay any licensed merchant in the community instantly
-- Send credit (Stablepoints) to other members in seconds
+- Send points to other members in seconds
 - QR code, NFC, or OTP payment — your choice
 - Digital receipt after every transaction
 
@@ -1351,7 +1280,7 @@ Joining a Helloopass community gives an end user access to a secure, simple, and
 - No paperwork, no branch visits
 
 **Coming Soon**
-- Trade with members and merchants across other communities — full inter-community marketplace with clearing and settlement handled by Helloopass OS (end of November 2026)
+- Trade with members and merchants across other communities — full inter-community marketplace with clearing and settlement handled by Helloopass OS (November 2026)
 
 ---
 
@@ -1387,14 +1316,6 @@ Joining Helloopass as a cooperative unlocks a complete digital trading and payme
 - Gig workers can receive payment for services and cash out directly
 - Builds a self-sustaining internal economy where money circulates within the cooperative
 
-**Built-In Revenue for the Cooperative**
-- The cooperative earns a fee/revenue share on member purchases — always deducted on the merchant/supplier side, never the buyer. The rate depends on the purchase context:
-  - **In-store purchases** (Helloopass acts like a traditional acceptance network, Visa-style): average **1.5–2.5%**, shared with Helloopass OS
-  - **Standard online products** (airtime, games, movies): gross profit of **3–10%**, shared with Helloopass OS
-  - **Platform/apps from the Helloopass Digital Store** (logistics, delivery apps, etc.): **5–25%**, shared with Helloopass OS
-  - **BNPL facility**: **5%**, shared with Helloopass OS
-- A recurring, multi-channel revenue stream
-
 **Optional Branded Portal**
 - Order a dedicated web portal with your own logo, colors, and domain from as little as $250
 - AI-generated design — live in under 1 hour
@@ -1405,17 +1326,13 @@ Joining Helloopass as a cooperative unlocks a complete digital trading and payme
 - Members are pre-registered automatically — no friction
 - Revenue sharing applies when apps generate payments — the cooperative earns a share
 
-**Hpass RTSM — Real Time Share Management (Free)**
-- Cooperatives get access to Hpass RTSM, an advanced share management platform, at no additional cost
-- Provides real-time visibility and management of member shares within the cooperative
-
 **Inter-Community Trading (Coming November 2026)**
 - Trade with other Helloopass communities — buy, sell, and transfer points across community boundaries
 - Full clearing and settlement handled by Helloopass OS — no external infrastructure needed
 - Your cooperative becomes part of a wider, borderless solidarity marketplace
 
 **Bottom Line**
-Helloopass gives a cooperative everything it needs to run a modern, cashless, transparent, and inclusive internal economy — with no technical burden, and with the full power of a world-class Open Trading & Payment OS behind it.
+Helloopass gives a cooperative everything it needs to run a modern, cashless, transparent, and inclusive internal economy — at zero monthly cost, with no technical burden, and with the full power of a world-class Open Trading & Payment OS behind it.
 
 
 ## Quick Reference — The 5 Community Models Compared
@@ -1478,21 +1395,6 @@ The same PIN works across all your communities and wallets. Avoid sequential num
 7. You're ready to top up and start transacting!
 
 ---
-
-## Can a Merchant Install the App Before Joining a Community — and How Does Activation Work?
-
-Just like an end user, a merchant can download and install the **Helloopass Merchant App** at any time, even before joining any community. Registering as a merchant also follows the exact same process as a regular member registration — you don't need to already be a member first.
-
-However, there is an important difference between merchant and end-user activation:
-
-### The Key Difference — Merchants Always Wait for KYC Approval
-
-- **End users in an open community** get **instant, automatic activation** — no approval step, no waiting
-- **Merchants**, by contrast, are **never instantly activated — even in an open community**. A merchant's account only activates once their **KYC has been approved**. This KYC approval gate applies regardless of community type:
-  - **Open community** — the merchant still waits for KYC approval before activation (unlike an end user, who is activated instantly)
-  - **Request-based or invitation-only community** — the merchant waits for both KYC approval and the community administrator's approval
-
-This is because a merchant license carries more responsibility (accepting payments, offering BNPL, cashing out real money) than a regular membership, so identity verification must be confirmed before that license is granted — no matter how open the community itself is.
 
 ## Why Should I as a Merchant Join a Helloopass Community?
 
@@ -1601,44 +1503,29 @@ A sponsor — diaspora family member, NGO, corporation, or government — tops u
 - All top-up methods result in Stablepoints backed **1:1 by real cash**
 - The equivalent real cash is held in the **community's own bank account** — not Helloopass
 - Stablepoints can only be used **within your community** — they cannot be used in another community
-- Cross-community transfers are coming at the **end of November 2026**
+- Cross-community transfers are coming at the **November 2026**
 
 
 ## Can a Merchant Cash Out Their Stablepoints for Real Cash?
 
-Yes — licensed merchants can cash out their Stablepoints at any time, **from their Earning Wallet**. There are **3 cash out methods** available:
+Yes — licensed merchants can cash out their Stablepoints at any time. There are **3 cash out methods** available:
 
 1. **Mobile Money** — transfer directly to MTN MoMo, Orange Money, Airtel Money, or any supported mobile money provider
 2. **Bank Account** — transfer directly to the merchant's bank account
 3. **Cash** — receive the equivalent amount in physical cash
 
-### Which Wallet Does This Apply To?
-
-Merchants have 3 wallets: Main, Bonus, and Earning (see "Wallets"). Every sale a merchant makes deposits credit into their **Earning Wallet** — never directly into their Main Wallet. Cash-out is **only available from the Earning Wallet**; the Main and Bonus Wallets cannot be cashed out. If a merchant wants to spend their sales proceeds as a buyer instead of cashing out, they first transfer credit from their Earning Wallet to their Main Wallet.
-
-> **Regulatory note:** Depending on the country's regulations, a merchant may be required to link their Earning Wallet to a bank account or a mobile money wallet in order to cash out. This requirement is not universal — it varies according to local regulatory rules, not a fixed platform requirement.
-
-### Conceptually, What Is Happening?
-
-When a merchant cashes out, they are in effect **reselling their credit (Stablepoints) back to the cooperative**, which pays them in cash/fiat in return.
-
-### How Cash Out Works Technically
-
-- **Hpass eGateway** — the platform's payment gateway technically executes the transfer of fiat to the merchant's linked bank account. Fees vary depending on which bank or mobile money provider the merchant has linked to their profile — there is no fixed or final fee estimation available at this stage.
-- **Automated Clearing House (ACH Level 1)** — Hpass runs an internal ACH that automatically exchanges a merchant's outstanding Stablepoints into fiat at the **end of each day** — no action needed from the merchant.
-- **Manual Option** — a merchant can also activate a manual transfer at **any time**, converting their credit (Stablepoints) into fiat currency on demand, rather than waiting for the automatic end-of-day ACH clearing.
+### How Cash Out Works
 
 All cash out transactions are **regulated via the community administrator** and can happen in two ways:
 
-- **On demand** — the merchant requests a cash out at any time and it is processed by the community administrator (manual option)
-- **Daily clearing process** — cash outs are batched and settled at the end of each day via the internal ACH Level 1 clearing house
+- **On demand** — the merchant requests a cash out at any time and it is processed by the community administrator
+- **Daily clearing process** — cash outs are batched and settled at the end of each day as part of a regular clearing cycle
 
 ### Key Points
 - Merchants can cash out **anytime** — no holding period
 - Cash out is always processed through the **community administrator** — not directly by Helloopass
 - The community administrator oversees and validates all cash out transactions, ensuring full compliance with the community's rules and the laws of the country
 - Regular end users cannot cash out — only licensed merchants and gig workers
-- Cashing out is never mandatory for a merchant — they can transfer credit from their Earning Wallet to their Main Wallet instead, and simply use it to purchase items within the community, just like any other buyer
 
 ### The Community Bank Pool Account — The Settlement Layer
 
@@ -1663,38 +1550,22 @@ No — a regular end user **cannot** convert their Stablepoints back to cash und
 
 ### What a Regular User Can Do With Their Stablepoints
 
-A regular user has two options — and **no fees are applied to either**:
+A regular user has two options — and both are **completely free with no fees**:
 
-1. **Send credit (Stablepoints) to another regular user** — peer-to-peer transfers within the same community have no fees applied
-2. **Purchase from a merchant** — paying a merchant within the community has no fees applied to the buyer
-3. **Use BNPL** — buying on the BNPL option as a buyer also has no fees applied to the end user
-
-On top of paying no fees, buyers are also **rewarded by the platform on every purchase they make** — every member (End User or Merchant acting as a buyer) has a dedicated **Bonus Wallet**, and each purchase bonus is materialized as Stablepoints deposited there. Bonus Wallet credit is more restricted than regular wallet credit: it can only be spent at a limited/select number of shops, plus on online products and services — not across the entire merchant network.
+1. **Send points to another regular user** — peer-to-peer transfers within the same community are free, no fees involved
+2. **Purchase from a merchant** — paying a merchant within the community is free for the buyer, no fees involved
+3. **Use BNPL** — buying on the BNPL option as a buyer is also free — no fees for the end user
 
 ### Summary of Fees for a Regular User
 
 | Action | Fee for Regular User |
 |---|---|
-| Send credit (Stablepoints) to another member | No fees applied |
-| Purchase from a merchant | No fees applied — plus a purchase bonus/reward credited to your Bonus Wallet |
-| Use BNPL as a buyer | No fees applied |
+| Send points to another member | Free |
+| Purchase from a merchant | Free |
+| Use BNPL as a buyer | Free |
 | Cash out to real money | Not available |
 
-Fees only apply on the **merchant/supplier side** — no fees are ever applied to the buyer. The rate depends on the purchase context:
-
-| Purchase Context | Fee (merchant/supplier side) | Shared With |
-|---|---|---|
-| In-store purchase (traditional acceptance network, Visa-style) | Average 1.5–2.5% | Community + Helloopass OS |
-| Standard online products (airtime, games, movies) | Gross profit of 3–10% | Community + Helloopass OS |
-| Digital Store platform apps (logistics, delivery, etc.) | 5–25% | Community + Helloopass OS |
-| BNPL facility | 5% | Community + Helloopass OS |
-
-No fees are ever applied to the buyer — and on top of that, the buyer is rewarded with a purchase bonus, credited as Stablepoints to their Bonus Wallet, on every transaction.
-
-### How Settlement Works
-When a buyer purchases an item, the buyer is charged the full price shown — no fee is ever added on top. The merchant then receives that same amount in credit (Stablepoints), **minus the fee the merchant agreed to pay** at their applicable tier (e.g. 1.5–2.5% in-store, 3–10% for standard online products, 5–25% for Digital Store apps, or 5% on a BNPL sale). The deduction happens entirely on the merchant's side of the settlement — the buyer never sees or pays it.
-
-**Example:** A buyer purchases a $100 item in-store. The buyer pays exactly $100 in credit (Stablepoints) — no more. The merchant receives $100 minus the agreed fee (say 2%) = $98 in credit. The remaining $2 is shared between the community and Helloopass OS.
+Fees only apply at the **merchant level** (~1.5% transaction fee) and at the **BNPL level** (5% discount paid by the merchant to Helloopass). The regular user always transacts at zero cost.
 
 
 ## Do You Need a Fully Verified KYC to Activate Your App?
@@ -1736,7 +1607,7 @@ Your phone number is your identity across the Helloopass platform. Having both a
 
 No — they are two separate apps, both available on the **App Store** (iPhone) and **Google Play** (Android):
 
-- **Helloopass Personal App** — for end users / buyers / community members. Used to top up, pay merchants, send credit (Stablepoints), and manage wallets across communities.
+- **Helloopass Personal App** — for end users / buyers / community members. Used to top up, pay merchants, send points, and manage wallets across communities.
 - **Helloopass Merchant App** — for merchants. Used to accept payments, manage sales, offer BNPL, view transaction history, and cash out earnings.
 
 A merchant who is also a member of a community as a buyer would use both apps — the Personal App for their purchases and the Merchant App for their sales.
@@ -1833,51 +1704,15 @@ Once you join, a dedicated wallet is automatically created for you — no new KY
 
 ## Wallets
 
-Each community (also referred to as a "project" — a cooperative, union, or organization) you join gives you a dedicated **set** of wallets. If you belong to multiple projects, each project has its own completely independent wallet set — Main, Bonus, and (for merchants) Earning — and credit does not move between them.
+Each community you join gives you one dedicated wallet. Wallets are community-specific — points from Community A cannot be used in Community B.
 
-- Wallets are project-specific — credit from Project 1 cannot be used in Project 2
-- At this stage, you **cannot** transfer credit from the Main Wallet of one project to the Main Wallet of another project
-- Cross-project (cross-community) transfers are a planned future feature, targeted for the end of November 2026
-
-### The Main Wallet
-Every member has a **Main Wallet**, which:
+Each wallet:
 - Stores Stablepoints backed 1:1 by real cash
 - Accepts top-ups via multiple methods
 - Lets you pay merchants in the same community
-- Lets you send credit (Stablepoints) to members of the same community
+- Lets you send points to members of the same community
 
-**How the Main Wallet gets funded:**
-1. Purchasing credit (Stablepoints) online
-2. Purchasing credit at a cooperative/union agent
-3. Receiving credit sent by another member of the cooperative
-
-> **Note:** Cross-community transfers are coming at the end of November 2026.
-
-### The Bonus Wallet
-
-Every member of the platform — End User or Merchant (when acting as a buyer) — also has a dedicated **Bonus Wallet**, separate from their Main Wallet.
-
-- Every purchase bonus/reward is automatically materialized as Stablepoints and deposited into this Bonus Wallet
-- Bonus Wallet credit has a **more limited scope** than Main Wallet credit: it can only be spent at a select/limited number of shops, plus on online products and services — it is not usable across the full merchant network like regular wallet credit
-- This encourages spending within a curated set of partners while still rewarding every purchase a member makes
-
-**How the Bonus Wallet gets funded:** Unlike the Main Wallet, the Bonus Wallet can **only** be credited automatically by the system, as a direct result of buying goods and services. It cannot be topped up manually, cannot be purchased into, and cannot receive peer-to-peer transfers from other members.
-
-### The Earning Wallet (Merchants Only)
-
-Merchants have a third wallet, in addition to the Main and Bonus Wallets: the **Earning Wallet**.
-
-- When a merchant makes a sale, the credit (Stablepoints) received from that sale goes into their **Earning Wallet** — not their Main Wallet
-- Merchants can **only cash out from their Earning Wallet** — the Main and Bonus Wallets are not cash-out eligible
-- Merchants can transfer credit (Stablepoints) from their Earning Wallet to their Main Wallet — for example, to spend it as a buyer within the community, rather than cashing it out
-
-**Summary of wallets by member type:**
-
-| Wallet | End User | Merchant | How It's Funded |
-|---|---|---|---|
-| Main Wallet | Yes | Yes | Buy credit online, buy credit at a cooperative/union agent, or receive credit sent by another member |
-| Bonus Wallet | Yes | Yes | System-credited only, automatically, as a reward for buying goods/services — cannot be topped up, purchased, or received via P2P |
-| Earning Wallet | No | Yes | Receives all sales proceeds; the only wallet eligible for cash-out |
+> **Note:** Cross-community transfers are coming in November 2026.
 
 ---
 
@@ -1910,7 +1745,7 @@ All app payments require your PIN. You receive a digital receipt after every pay
 
 ---
 
-## How to Send Credit (Stablepoints)
+## How to Send Points
 
 1. Select the correct community
 2. Tap **Send**
@@ -1919,7 +1754,7 @@ All app payments require your PIN. You receive a digital receipt after every pay
 5. Enter your PIN
 6. Tap **Confirm**
 
-> **Note:** You can only send credit (Stablepoints) to members of the same community. Cross-community transfers are coming at the end of November 2026.
+> **Note:** You can only send points to members of the same community. Cross-community transfers are coming in November 2026.
 
 ---
 
@@ -1989,10 +1824,10 @@ After leaving:
 
 ## Cross-Community Transfers & Inter-Community Trading
 
-Cross-community transfers and payments are **not yet available** for end users. Points from one community can only be used within that same community. This feature is scheduled for release at the **end of November 2026**.
+Cross-community transfers and payments are **not yet available** for end users. Points from one community can only be used within that same community. This feature is scheduled for release at the **November 2026**.
 
 Once live, this will allow:
-- Sending credit (Stablepoints) to members of other communities
+- Sending points to members of other communities
 - Paying merchants in other communities
 
 **Clearing & Settlement between communities:**
@@ -2011,7 +1846,7 @@ This effectively connects all Helloopass communities into a wider inter-connecte
 A restricted wallet is created by a sponsor with specific spending rules set in advance. Funds can only be used for approved purposes (e.g. health, education).
 
 With a restricted wallet:
-- You cannot send credit (Stablepoints) to other members
+- You cannot send points to other members
 - You can only pay approved merchants
 - Spending categories and expiry dates may apply
 
@@ -2042,7 +1877,7 @@ If withdrawal is available to you: **Tap Withdraw → enter amount → select me
 | Payment stuck on "Processing" | Check internet connection, wait 30 seconds, do not scan again |
 | OTP not received | Check network signal, request resend, wait 1 minute |
 | Forgot PIN | Tap "Forgot PIN" on login screen, receive SMS reset link |
-| Cannot send to another community | Cross-community transfers coming end of November 2026 |
+| Cannot send to another community | Cross-community transfers coming November 2026 |
 
 ---
 
@@ -2189,7 +2024,7 @@ Members go to shop.yourcommunity.com — they see your logo, your colors, your b
 
 The **Helloopass Demo** is a free, safe practice environment where anyone can test everything before using real money. Think of it like a simulation — you get free demo points to practice with, and an AI assistant guides you step by step.
 
-**Demo website: https://hpassfinance.vercel.app/**
+**Demo website: https://demo.hpass.belcashlabs.com**
 
 ### What You Can Test in the Demo
 
@@ -2204,17 +2039,17 @@ The **Helloopass Demo** is a free, safe practice environment where anyone can te
 ### How to Get Started — 3 Simple Steps
 
 **Step 1: Register on the Demo Portal**
-Go to **https://hpassfinance.vercel.app/**, choose your country, and fill in your name, phone number, and email address. You can use your real phone number — the demo will send SMS for testing.
+Go to **https://demo.hpass.belcashlabs.com**, choose your country, and fill in your name, phone number, and email address. You can use your real phone number — the demo will send SMS for testing.
 
 **Step 2: Download the Demo Apps**
 After registration, download two apps from the App Store or Google Play:
-- **Helloopass Personal Demo** — practice buying and sending credit (Stablepoints)
+- **Helloopass Personal Demo** — practice buying and sending points
 - **Helloopass Merchant Demo** — practice accepting payments
 
 Look for "DEMO" in the app name — these are separate from the real apps.
 
 **Step 3: Start Practicing with Demo Points**
-Once you log in, you receive free demo points automatically. You can immediately pay a merchant, accept a payment, send credit (Stablepoints) to a friend, and explore all features.
+Once you log in, you receive free demo points automatically. You can immediately pay a merchant, accept a payment, send points to a friend, and explore all features.
 
 ### AI Assistant in the Demo
 
@@ -3745,6 +3580,7 @@ When contacting support, please provide:
 ---
 
 *Helloopass — "The solidarity economy Click and Trade" · Open Trading & Payment OS · © 2026 Helloopass. All rights reserved.*
+
 ---
 RESPONSE STYLE RULES:
 - Be warm, clear, and helpful
